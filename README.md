@@ -9,9 +9,5 @@ Additionally, how does the frequency and intensity of negative coverage across t
 
 ## Data collection
 
-The newsApiPackage contains functions that fetch news articles.
-
-#### Steps:
-
-1. Fetch all English news sources from the US and save into newsSources.json
-2. Filter through them to remove news sources that have a unique focus on technology, entertainment, sports and science.
+- `script/fetchNewsArticle.py` collects 20 of the most relevant articles per day between 2024-10-11 and 2024-11-03 and stores them into `data/dailyArticles`
+- It then compiles them into a singular document `data/allArticles.json`

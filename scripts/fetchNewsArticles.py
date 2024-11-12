@@ -21,7 +21,7 @@ def getApiKey():
 
 def saveArticlesFromPastMonth(apiKey):
     # Dates to fetch articles from
-    dates = ["2024-10-11", "2024-10-12", "2024-10-13", "2024-10-14", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-18", 
+    dates = ["2024-10-12", "2024-10-13", "2024-10-14", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-18", 
              "2024-10-19", "2024-10-20", "2024-10-21", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", 
              "2024-10-27", "2024-10-28", "2024-10-29", "2024-10-30", "2024-10-31", "2024-11-01", "2024-11-02", "2024-11-03" ]
 
@@ -31,12 +31,30 @@ def saveArticlesFromPastMonth(apiKey):
         with open("data/dailyArticles/" + date + ".json", "w") as f:
             articles = fetch_latest_news(apiKey, date, date)
             json.dump(articles, f)
-            f.close()
+
+def combineDailyArticlesIntoSingularDocument():
+    dates = ["2024-10-11","2024-10-12", "2024-10-13", "2024-10-14", "2024-10-15", "2024-10-16", "2024-10-17", "2024-10-18", 
+             "2024-10-19", "2024-10-20", "2024-10-21", "2024-10-22", "2024-10-23", "2024-10-24", "2024-10-25", "2024-10-26", 
+             "2024-10-27", "2024-10-28", "2024-10-29", "2024-10-30", "2024-10-31", "2024-11-01", "2024-11-02", "2024-11-03" ]
+    
+    allArticles = []
+
+    for date in dates:
+
+        with open("data/dailyArticles/" + date + ".json", "r") as f:
+            daily_articles = json.load(f)
+            allArticles.extend(daily_articles)
+        
+    with open("data/allArticles.json", "w") as f:
+        json.dump(allArticles, f, indent=4)
+
 
 def main():
     apiKey = getApiKey()
 
-    saveArticlesFromPastMonth(apiKey)
+    #saveArticlesFromPastMonth(apiKey)
+
+    combineDailyArticlesIntoSingularDocument()
     
 
 
