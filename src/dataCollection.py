@@ -22,7 +22,7 @@ def fetch_latest_news(api_key, from_date, to_date):
     # Define query parameters
     params = {
         'q': "Kamala Harris",              # Keywords to search for
-        'searchIn': "title,description",  # Keyword must appear in title or description
+        'searchIn': "title",  # Keyword must appear in title or description
         #'sources': news_source,
         'from': from_date,              
         'to': to_date,

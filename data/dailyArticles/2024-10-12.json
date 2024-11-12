@@ -1,5 +1,35 @@
 [
   {
+    "source": { "id": "time", "name": "Time" },
+    "author": "Rebecca Schneid",
+    "title": "What We Learned From Kamala Harris\u2019 Medical Report\u2014and Why It\u2019s Significant",
+    "description": "Harris' physician said she \u201cremains in excellent health.\"",
+    "url": "https://time.com/7086331/kamala-harris-medical-report-revelations-donald-trump-health-updates-contrast/",
+    "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/GettyImages-2177123635.jpg?quality=85&w=1024&h=628&crop=1",
+    "publishedAt": "2024-10-12T16:11:26Z",
+    "content": "The White House Military Office released Vice President Kamala Harris medical report on Oct. 12, sharing that Harris remains in excellent health based on her most recent and unremarkable physical exa\u2026 [+3267 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Rolling Stone" },
+    "author": "Althea Legaspi",
+    "title": "Trump Calls Kamala Harris \u2018Retarded\u2019 During a Donor Dinner: Report",
+    "description": "Donald Trump called Democratic presidential Kamala Harris 'retarded' during a recent donor dinner, according to 'The New York Times.'",
+    "url": "http://www.rollingstone.com/politics/politics-news/trump-calls-kamala-harris-retarded-donor-dinner-report-1235132681/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/10/TrumpinVegas-1.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2024-10-12T21:51:59Z",
+    "content": "Donald Trump is an insult machine, worse, he is an insult machine that has no bottom, particularly it seems when he\u2019s feeling frustrated, not getting his way, and there\u2019s a woman he wants to blame. T\u2026 [+3170 chars]"
+  },
+  {
+    "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+    "author": "Al Jazeera",
+    "title": "Kamala Harris releases medical report, drawing contrast with Donald Trump",
+    "description": "Democratic presidential candidate in 'excellent health' before November's US election, doctor says.",
+    "url": "https://www.aljazeera.com/news/2024/10/12/kamala-harris-health-report-donald-trump-us-presidential-election",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/2024-08-25T102151Z_1141791016_RC2EL9APUF7K_RTRMADP_3_USA-ELECTION-HARRIS-1724646605.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-10-12T15:12:29Z",
+    "content": "United States Vice President Kamala Harris, the Democratic presidential nominee, released a letter from her doctor that pronounced her in excellent health and fit for high office, in an effort to dra\u2026 [+2285 chars]"
+  },
+  {
     "source": { "id": null, "name": "Forbes" },
     "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
     "title": "Kamala Harris Has More Billionaires Openly Backing Her Than Trump (But Many Are Staying Silent)",
@@ -50,84 +80,14 @@
     "content": "During a presser in Colorado, Felon 45, the multi-convicted felon and sexual assaulter called the Vice President of the United States a criminal after he gave one of the most racist speeches in histo\u2026 [+2302 chars]"
   },
   {
-    "source": { "id": null, "name": "Crooksandliars.com" },
-    "author": "NewsHound Ellen",
-    "title": "Hillary Clinton Warns Harris: Be Prepared For An October Surprise",
-    "description": "Hillary Clinton sounded upbeat about Kamala Harris\u2019 chances of accomplishing what Clinton had hoped to do: becoming the first woman president. But she also had some advice for Harris.\n\nCLINTON: I believe strongly that she has to be prepared for any last-minut\u2026",
-    "url": "https://crooksandliars.com/2024/10/hillary-clinton-warns-harris-be-prepared",
-    "urlToImage": "https://crooksandliars.com/files/primary_image/24/10/hillary_clinton_for_101124.jpg",
-    "publishedAt": "2024-10-12T17:14:31Z",
-    "content": "Hillary Clinton sounded upbeat about Kamala Harris chances of accomplishing what Clinton had hoped to do: becoming the first woman president. But she also had some advice for Harris.\r\nCLINTON: I beli\u2026 [+871 chars]"
-  },
-  {
-    "source": { "id": "nbc-news", "name": "NBC News" },
-    "author": "Monica Alba and Carol E. Lee",
-    "title": "Harris weighing where to put more distance between her and Biden",
-    "description": "Vice President Kamala Harris\u2019 team has been discussing ways to clean up her responses to questions this week about how she would differentiate herself from President Joe Biden, according to four people familiar with the discussions.",
-    "url": "https://www.nbcnews.com/politics/2024-election/harris-weighing-put-distance-biden-rcna175082",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241011-Joe-Biden-Kamala-Harris-aa-256p-9d66da.jpg",
-    "publishedAt": "2024-10-12T15:56:30Z",
-    "content": "WASHINGTON Vice President Kamala Harris team has been discussing ways to clean up her responses to questions this week about how she would differentiate herself from President Joe Biden, according to\u2026 [+3951 chars]"
-  },
-  {
-    "source": { "id": "nbc-news", "name": "NBC News" },
-    "author": "Monica Alba and Raquel Coronell Uribe and Alexandra Marquez",
-    "title": "Harris releases medical report saying she's fit for office; Trump has yet to provide his",
-    "description": "Vice President Kamala Harris released a summary of her medical records from her White House physician, who deemed her to be \"a healthy 59-year-old female who has a medical history notable for seasonal allergies and urticaria.\"",
-    "url": "https://www.nbcnews.com/politics/2024-election/harris-releases-medical-report-saying-fit-office-trump-yet-provide-spe-rcna175129",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241011-kamala-harris-ew-904p-96ecdd.jpg",
-    "publishedAt": "2024-10-12T14:00:07Z",
-    "content": "Vice President Kamala Harris on Saturday released a summary of her medical records from her White House physician, who deemed her to be \"a healthy 59-year-old female who has a medical history notable\u2026 [+2218 chars]"
-  },
-  {
-    "source": { "id": "new-york-magazine", "name": "New York Magazine" },
-    "author": "Zak Cheney-Rice",
-    "title": "Barack Obama\u2019s Tiresome Condescension Toward Black Men",
-    "description": "Barack Obama\u2019s speech for Kamala Harris in Pittsburgh was accompanied by the claim that sexism was preventing Black men from supporting the vice-president. He did not address the plentiful reasons they might reject her because she\u2019s a Democrat.",
-    "url": "http://nymag.com/intelligencer/article/barack-obamas-tiresome-condescension-toward-black-men.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/f79/aab/f04ebe3bddd67611f7b2becbb722af2ba9-obama.1x.rsocial.w1200.jpg",
-    "publishedAt": "2024-10-12T09:00:26Z",
-    "content": "Before Barack Obama delivered his speech supporting Kamala Harris in Pittsburgh on Thursday, he made a more intimate appearance at the Harris-Walz campaign offices in the citys East Liberty neighborh\u2026 [+7009 chars]"
-  },
-  {
-    "source": { "id": null, "name": "UPI.com" },
-    "author": "Mike Heuer",
-    "title": "Harris releases glowing personal health report; Trump to hold Calif. rally",
-    "description": "Democratic presidential nominee Kamala Harris on Saturday released a glowing personal health report as her Republican opponent, Donald Trump, was scheduled...",
-    "url": "https://www.upi.com/Top_News/US/2024/10/12/harris-health-trump-coachella/6231728757019/",
-    "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/ba2d18e23e661d27e549714d18edcaac",
-    "publishedAt": "2024-10-12T19:13:48Z",
-    "content": "Oct. 12 (UPI) -- Democratic presidential nominee Kamala Harris on Saturday released a glowing personal health report as her Republican opponent, Donald Trump, was scheduled to hold a rally in blue-st\u2026 [+1764 chars]"
-  },
-  {
-    "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
-    "author": "ABC News",
-    "title": "Kamala Harris's doctor reports she's in 'excellent health', as her campaign looks to draw a contrast with Trump",
-    "description": "Dr Joshua Simmons, a US Army colonel and physician to the vice-president, wrote that Ms Harris, 59, maintains a healthy, active lifestyle and that she \"possesses the physical and mental resiliency\" required to serve as president.",
-    "url": "https://www.abc.net.au/news/2024-10-13/vice-president-kamala-harris-physician-letter-medical-records/104466100",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/851fa47fad0a555a4bad9df81f13eda7?impolicy=wcms_watermark_news&cropH=1659&cropW=2949&xPos=0&yPos=36&width=862&height=485&imformat=generic",
-    "publishedAt": "2024-10-12T13:47:38Z",
-    "content": "US Vice-President Kamala Harris is in \"excellent health\" and \"possesses the physical and mental resiliency\" required to serve as president, her doctor said in a letter released on Saturday that summa\u2026 [+3320 chars]"
-  },
-  {
-    "source": { "id": "the-hill", "name": "The Hill" },
-    "author": "Douglas MacKinnon, opinion contributor",
-    "title": "Opinion - The 4 reasons Harris is losing",
-    "description": "I have spoken with three Democratic operatives behind the scenes who all believe the race is slipping away from Vice President Kamala Harris.",
-    "url": "https://thehill.com/opinion/campaign/4929051-the-4-reasons-harris-is-losing/",
-    "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/e7ccd256af9325e839b3257b0f0049a9",
-    "publishedAt": "2024-10-12T16:00:00Z",
-    "content": "I have spoken with three Democratic operatives behind the scenes who all believe the race is slipping away from Vice President Kamala Harris. They offer four major reasons why this is happening.\r\nThe\u2026 [+4207 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Livejournal.com" },
-    "author": "flyingpigs_live",
-    "title": "Veep does Vogue",
-    "description": "Vice president and presidential candidate Kamala Harris covers November's issue of Vogue and discusses various issues effecting Americans...On the Middle East- \"A lot of the work that needs to be done,\u201d Harris says, \u201cis a function of the circumstances at the \u2026",
-    "url": "https://ohnotheydidnt.livejournal.com/129353977.html",
-    "urlToImage": "https://l-files.livejournal.net/og_image/3616053/505288?v=1728776271",
-    "publishedAt": "2024-10-12T23:37:48Z",
-    "content": "Vice president and presidential candidate Kamala Harris covers November's issue of Vogue and discusses various issues effecting Americans...\r\nOn the Middle East- \"A lot of the work that needs to be d\u2026 [+1171 chars]"
+    "source": { "id": null, "name": "Queerty.com" },
+    "author": "Editors",
+    "title": "Kamala Harris humbles Sarah Huckabee Sanders, straight dudes appropriate \u201cLocktober\u201d & Ricky Martin shaves it all off",
+    "description": "TGIF! We\u2019ve made it to the weekend again! A lot happened this week. Here are some of the highlights\u2026",
+    "url": "https://www.queerty.com/kamala-harris-humbles-sarah-huckabee-sanders-straight-dudes-appropriate-locktober-ricky-martin-shaves-it-all-off-20241011",
+    "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2024/10/mixcollage-11-oct-2024-02-21-pm-2071-scaled.jpg?auto=format&auto=compress&fit=crop&gravity=smart&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=60&wat_scale=50",
+    "publishedAt": "2024-10-12T01:00:00Z",
+    "content": "TGIF!\u00a0Weve made it to the weekend again! A lot happened this week. Here are some of the highlights\r\nWELCOME TO THE PARTY: The New York Times declared daddies are officially in! [Read more]\r\nSMOOTH OP\u2026 [+2270 chars]"
   },
   {
     "source": { "id": "breitbart-news", "name": "Breitbart News" },
@@ -140,34 +100,14 @@
     "content": "Vice President Kamala Harris said off teleprompter on Friday rather articulately that the 2024 election is packed with some stuff.\r\nThe incident is Harris\u2019s latest pronouncement ripped by critics as \u2026 [+2887 chars]"
   },
   {
-    "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Amy Furr, Amy Furr",
-    "title": "Poll: Decline in Black Voter Support Imperils Kamala Harris's Bid for the Presidency",
-    "description": "A recent poll found that Vice President Kamala Harris (D) is facing a significant gap regarding black voters.\nThe post Poll: Decline in Black Voter Support Imperils Kamala Harris\u2019s Bid for the Presidency appeared first on Breitbart.",
-    "url": "https://www.breitbart.com/2024-election/2024/10/12/decline-black-voter-support-imperils-kamala-harris-bid-presidency/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/blacks-for-trump-getty-640x335.jpg",
-    "publishedAt": "2024-10-12T17:11:53Z",
-    "content": "A recent poll found Vice President Kamala Harris (D) is facing a significant gap pertaining to black voters.\r\nWhen compared to the group\u2019s support of President Joe Biden (D) in 2020, Harris is laggin\u2026 [+2516 chars]"
-  },
-  {
-    "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Ian Hanchett, Ian Hanchett",
-    "title": "Walz: Voters Shouldn't Worry About the Difference Between Biden, Harris",
-    "description": "During an interview with Philadelphia ABC affiliate WPVI on Friday, 2024 Democratic Vice Presidential candidate Minnesota Gov. Tim Walz (D) said that there are differences between 2024 Democratic presidential candidate Vice President Kamala Harris and Joe Bid\u2026",
-    "url": "https://www.breitbart.com/clips/2024/10/12/walz-voters-shouldnt-worry-about-the-difference-between-biden-harris/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/Tim-Walz-640x335.jpg",
-    "publishedAt": "2024-10-12T15:44:01Z",
-    "content": "During an interview with Philadelphia ABC affiliate WPVI on Friday, 2024 Democratic Vice Presidential candidate Minnesota Gov. Tim Walz (D) said that there are differences between 2024 Democratic pre\u2026 [+1690 chars]"
-  },
-  {
     "source": { "id": null, "name": "Raw Story" },
     "author": "Agence France-Presse",
-    "title": "Harris stars on Vogue cover as 'candidate for our times'",
-    "description": "U.S. Vice President and Democratic White House hopeful Kamala Harris appeared on the cover of Vogue magazine Friday, with the style bible calling her a \"candidate for our times.\"A cover shot by celebrity photographer Annie Leibovitz captured the 59-year-old i\u2026",
-    "url": "https://www.rawstory.com/harris-stars-on-vogue-cover-as-candidate-for-our-times/",
-    "urlToImage": "https://www.rawstory.com/media-library/a-cover-shot-by-celebrity-photographer-annie-leibovitz-of-kamala-harris-image-credit-vogue.png?id=53809533&width=1200&height=600&coordinates=0%2C99%2C0%2C99",
-    "publishedAt": "2024-10-12T11:43:06Z",
-    "content": "U.S. Vice President and Democratic White House hopeful Kamala Harris appeared on the cover of Vogue magazine Friday, with the style bible calling her a \"candidate for our times.\"\r\nA cover shot by cel\u2026 [+1585 chars]"
+    "title": "Harris fans claw for victory with Kamala-themed nail polishes",
+    "description": "The race for the U.S. presidency is a nail-biter, so two Kamala Harris supporters have taken matters into their own manicured hands and launched a line of nail polishes themed around viral moments from the Democratic campaign.\"We wanted something that was pla\u2026",
+    "url": "https://www.rawstory.com/harris-fans-claw-for-victory-with-kamala-themed-nail-polishes/",
+    "urlToImage": "https://www.rawstory.com/media-library/nail-polishes-from-the-kamala-harris-promoting-joyful-warrior-set-include-a-green-polish-called-kamala-is-brat-an-orange-p.png?id=53809573&width=1200&height=600&coordinates=0%2C70%2C0%2C70",
+    "publishedAt": "2024-10-12T12:29:05Z",
+    "content": "The race for the U.S. presidency is a nail-biter, so two Kamala Harris supporters have taken matters into their own manicured hands and launched a line of nail polishes themed around viral moments fr\u2026 [+1973 chars]"
   },
   {
     "source": { "id": null, "name": "The Week Magazine" },
@@ -190,23 +130,873 @@
     "content": "Vice President Kamala Harris on Saturday shared her thoughts on Donald Trump's \"mental acuity\" in a live interview shown on Fox News.\r\nHarris, who was departing for North Carolina, was asked by a rep\u2026 [+572 chars]"
   },
   {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "Kathleen Culliton",
-    "title": "'Conjure the medieval nightmare': Experts say Harris must now terrify voters about Trump",
-    "description": "Vice President Kamala Harris has one campaign tactic left that she needs to use against former President Donald Trump before it's too late, Maureen Dowd argued Saturday in her New York Times editorial. The time is past for Harris to conduct sit-down interview\u2026",
-    "url": "https://www.rawstory.com/kamala-harris-trump-rhetoric/",
-    "urlToImage": "https://www.rawstory.com/media-library/republican-presidential-nominee-and-former-u-s-president-donald-trump-makes-a-campaign-speech-at-the-johnny-mercer-theatre-civi.jpg?id=53685234&width=1200&height=600&coordinates=0%2C375%2C0%2C376",
-    "publishedAt": "2024-10-12T13:51:08Z",
-    "content": "Vice President Kamala Harris has one campaign tactic left that she needs to use against former President Donald Trump before it's too late, Maureen Dowd argued Saturday in her New York Times editoria\u2026 [+1592 chars]"
+    "source": { "id": null, "name": "The Daily Caller" },
+    "author": "David Blackmon",
+    "title": "DAVID BLACKMON: Dire Energy Costs Of A Kamala Harris Presidency",
+    "description": "Vice President Kamala Harris, the Democratic presidential candidate, created a real problem for herself this week during an appearance on The View.",
+    "url": "https://dailycaller.com/2024/10/12/opinion-energy-costs-of-kamala-harris-presidency-david-blackmon/",
+    "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/10/harrisazsc1.jpeg",
+    "publishedAt": "2024-10-12T17:47:32Z",
+    "content": "Vice President Kamala Harris, the Democratic presidential candidate, created a real problem for herself this week during an appearance on The View. Asked by the very friendly host Sunny Hostin, what,\u2026 [+5007 chars]"
+  },
+  {
+    "source": { "id": null, "name": "The Daily Caller" },
+    "author": "Jennifer Nuelle",
+    "title": "\u2018Wholly Unqualified\u2019: Trump Campaign Responds To Kamala Harris Medical Report Release",
+    "description": "Vice President and Democratic Presidential nominee Kamala Harris released her medical record Saturday.",
+    "url": "https://dailycaller.com/2024/10/12/donald-trump-campaign-responds-kamala-harris-medical-report-release/",
+    "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/10/GettyImages-2178029462-scaled-e1728746329910.jpg",
+    "publishedAt": "2024-10-12T16:52:22Z",
+    "content": "Vice President and Democratic Presidential nominee Kamala Harris released her most recent medical report Saturday, weeks following Trump\u2019s physician announcing he is in great health.\r\nHarris\u2019 medical\u2026 [+3508 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Sputnikglobe.com" },
+    "author": "Sputnik International",
+    "title": "Allergies Defeated, Presidency Next? Kamala Harris\u2019 Health Report is In",
+    "description": "MOSCOW (Sputnik) - US Vice President and Democratic presidential nominee Kamala Harris is in \"excellent\" health, her physician, Joshua Simmons, said in a medical summary published by the White House on Saturday, just weeks before the election.",
+    "url": "https://sputnikglobe.com/20241012/allergies-defeated-presidency-next-kamala-harris-health-report-is-in-1120524788.html",
+    "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1120524788.jpg?11197125861728751612",
+    "publishedAt": "2024-10-12T16:46:51Z",
+    "content": "Sputnik brings you all the latest breaking stories, expert analysis and videos from North and South America.\r\nhttps://sputnikglobe.com/20241012/allergies-defeated-presidency-next-kamala-harris-health\u2026 [+3237 chars]"
+  },
+  {
+    "source": { "id": null, "name": "DW (English)" },
+    "author": "Deutsche Welle",
+    "title": "Kamala Harris in 'excellent health' \u2014 medical report",
+    "description": "The White House has released a report on Democratic presidential candidate Kamala Harris' health. Harris' campaign has urged her rival, former President Donald Trump, to do the same ahead of the November 5 election.",
+    "url": "https://www.dw.com/en/kamala-harris-in-excellent-health-medical-report/a-70479355",
+    "urlToImage": "https://static.dw.com/image/70479378_6.jpg",
+    "publishedAt": "2024-10-12T21:57:00Z",
+    "content": "US Vice President Kamala Harris is in \"excellent health\" and fit for the presidency, a medical report issued by the White House on Saturday said.\r\nHarris, who is running for president as the Democrat\u2026 [+1665 chars]"
   },
   {
     "source": { "id": null, "name": "Politicalwire.com" },
     "author": "Taegan Goddard",
-    "title": "Black Voters Drift From Democrats",
-    "description": "\u201cKamala Harris has improved her party\u2019s standing among Black voters since President Biden left the presidential race, but she still significantly trails Mr. Biden\u2019s 2020 share of that vital Democratic constituency,\u201d according to a New York Times/Siena College\u2026",
-    "url": "https://politicalwire.com/2024/10/12/black-voters-drift-from-democrats/",
+    "title": "San Francisco Chronicle Launches Kamala Harris AI Bot",
+    "description": "The San Francisco Chronicle launched an AI-powered \u201cKamala Harris News Assistant.\u201dThe tool compiles 29 years of Chronicle reporting via an AI-powered chat interface to address readers\u2019 queries about the Democratic presidential candidate.",
+    "url": "https://politicalwire.com/2024/10/12/chronicle-launches-kamala-harris-ai-bot/",
     "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-    "publishedAt": "2024-10-12T11:29:31Z",
+    "publishedAt": "2024-10-12T17:04:26Z",
     "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d\r\n Chuck Todd, host of \u201cMeet the Press\u201d\r\n\u201cConcise. Relevant. To th\u2026 [+594 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Zachary Leeman",
+    "title": "Kamala Harris Releases Health Report, Drawing Contrast to Trump",
+    "description": "A medical statement for Vice President Kamala Harris dropped on Saturday, declaring she is in \"excellent health\" at 59 years old.\nThe post Kamala Harris Releases Health Report, Drawing Contrast to Trump first appeared on Mediaite.",
+    "url": "https://www.mediaite.com/politics/kamala-harris-releases-health-report-drawing-contrast-to-trump/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/kamala-.jpg",
+    "publishedAt": "2024-10-12T12:39:21Z",
+    "content": "(AP Photo/Ross D. Franklin)\r\nA medical statement for Vice President Kamala Harris dropped on Saturday, declaring she is in \u201cexcellent health\u201d at 59 years old.\r\nThe report from Col. Joshua R. Simmons,\u2026 [+2062 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Zoe Engels",
+    "title": "SF Chronicle Launches Kamala Harris AI Bot Ahead of 2024 Election",
+    "description": "Where does Vice President Kamala Harris like to purchase her burritos? Was she tough on crime as a prosecutor? And among a given trio of Republicans, with whom would she rather be stuck in an elevator? These questions, both serious and not-so, can be answered\u2026",
+    "url": "https://www.mediaite.com/politics/sf-chronicle-launches-kamala-harris-ai-bot-ahead-of-2024-election/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/08/AP24221778221824-scaled.jpg",
+    "publishedAt": "2024-10-12T15:14:04Z",
+    "content": "AP Photo/Julia Nikhinson\r\nWhere does Vice President Kamala Harris like to purchase her burritos? Was she tough on crime as a prosecutor? And among a given trio of Republicans, with whom would she rat\u2026 [+3562 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Tommy Christopher",
+    "title": "\u2018Frankly Sir\u2014\u2018 Trump-Leaning Voter Gets Earful From Kamala Harris About Trump At Town Hall",
+    "description": "Vice President Kamala Harris went on a tirade against Trump when a Trump-leaning voter asked her to explain \"how you got this candidacy?\"\nThe post \u2018Frankly Sir\u2014\u2018 Trump-Leaning Voter Gets Earful From Kamala Harris About Trump At Town Hall first appeared on Med\u2026",
+    "url": "https://www.mediaite.com/news/frankly-sir-trump-leaning-voter-gets-earful-from-kamala-harris-about-trump-at-town-hall/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/\u2018Frankly-Sir\u2014\u2018-Trump-Leaning-Voter-Gets-Earful-From-Kamala-Harris-About-Trump-At-Town-Hall.jpg",
+    "publishedAt": "2024-10-12T14:13:03Z",
+    "content": "Vice President Kamala Harris went on a tirade against former President Donald Trump when a Trump-leaning voter asked her to explain \u201chow you got this candidacy?\u201dOn Thursday night, VP Harris participa\u2026 [+6284 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Kipp Jones",
+    "title": "Trump Uses Shocking Slur About Kamala Harris During Private Fundraiser, Maggie Haberman Reports",
+    "description": "Trump was frustrated that Kamala Harris raised more in three months than he did over the entire last year of campaigning.\nThe post Trump Uses Shocking Slur About Kamala Harris During Private Fundraiser, Maggie Haberman Reports first appeared on Mediaite.",
+    "url": "https://www.mediaite.com/news/trump-uses-shocking-slur-about-kamala-harris-during-private-fundraiser-maggie-haberman-reports/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/09/DONALD-TRUMP-AP24258767849701.jpg",
+    "publishedAt": "2024-10-12T18:44:07Z",
+    "content": "(AP Photo/Alex Brandon)\r\nFormer President Donald Trump was so frustrated at Vice President Kamala Harris\u2019s fundraising numbers that he referred to her while using a slur for the learning disabled to \u2026 [+2304 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Zachary Leeman",
+    "title": "Gutfeld! Ratings Outpace Late Night Interviews with Kamala Harris, Tim Walz",
+    "description": "Greg Gutfeld's ratings wins continued as his Gutfeld! outpaced late night interviews with Kamala Harris and her running mate Tim Walz in the ratings.\nThe post Gutfeld! Ratings Outpace Late Night Interviews with Kamala Harris, Tim Walz first appeared on Mediai\u2026",
+    "url": "https://www.mediaite.com/media/gutfeld-ratings-outpace-late-night-interviews-with-kamala-harris-tim-walz/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2023/04/g.png",
+    "publishedAt": "2024-10-12T16:32:36Z",
+    "content": "Greg Gutfeld\u2019s ratings wins continued this week as his Gutfeld! outpaced late night interviews with Vice President Kamala Harris and her running mate Tim Walz in the ratings.\r\nThe Wrap first broke ne\u2026 [+1495 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Tommy Christopher",
+    "title": "\u2018We Speak Her Name\u2019: Woman Loses It Sobbing At Kamala Harris Town Hall Over Immigrant Mom Who Died Without Proper Care",
+    "description": "VP Kamala Harris comforted a voter who broke down sobbing as she shared about her deceased mom, who she said didn't get proper care because of her status.\nThe post \u2018We Speak Her Name\u2019: Woman Loses It Sobbing At Kamala Harris Town Hall Over Immigrant Mom Who D\u2026",
+    "url": "https://www.mediaite.com/news/speak-her-name-woman-loses-it-sobbing-at-kamala-harris-town-hall-over-immigrant-mom-who-died-without-proper-care/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/Woman-Loses-It-Sobbing-At-Kamala-Harris-Town-Hall-Over-Immigrant-Mom-Who-Died-Without-Proper-Care.jpg",
+    "publishedAt": "2024-10-12T17:20:34Z",
+    "content": "Vice President Kamala Harris comforted a voter who broke down sobbing as she shared about her recently deceased immigrant mother, who she said didn\u2019t get proper care because of her status.On Thursday\u2026 [+2484 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Kipp Jones",
+    "title": "Kamala Harris Getting Help to \u2018Clean Up\u2019 Her \u2018Style\u2019 in Interviews After Failure to Explain How She Differs From Biden: Report",
+    "description": "According to a Saturday report from NBC News, Harris's advisers are working with her to \"clean up\" how she handles questions with just weeks until the election.\nThe post Kamala Harris Getting Help to \u2018Clean Up\u2019 Her \u2018Style\u2019 in Interviews After Failure to Expla\u2026",
+    "url": "https://www.mediaite.com/politics/kamala-harris-getting-help-to-clean-up-her-style-in-interviews-after-failure-to-explain-how-she-differs-from-biden-report/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/Screenshot-2024-10-08-at-6.25.49\u202fAM.jpg",
+    "publishedAt": "2024-10-12T19:13:44Z",
+    "content": "Screenshot\r\nDemocrats are helping Vice President Kamala Harris \u201cclean up\u201d how she responds to questions from the media after she told The View earlier this week that she could not think of any meanin\u2026 [+2689 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Memeorandum.com" },
+    "author": null,
+    "title": "Biden sabotaging Kamala Harris' presidential campaign after being forced to drop re-election bid, pundits say (New York Post)",
+    "description": "New York Post:\nBiden sabotaging Kamala Harris' presidential campaign after being forced to drop re-election bid, pundits say\u00a0 \u2014\u00a0 Et Tu, Biden?\u00a0 \u2014\u00a0 President Biden is so bitter about being forced to drop his re-election bid by top members of his own party that\u2026",
+    "url": "https://www.memeorandum.com/241012/p32",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/us-president-joe-biden-us-91444199.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-12T17:15:01Z",
+    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Boston Herald" },
+    "author": "Peter Lucas",
+    "title": "Lucas: Kamala Harris still playing second fiddle",
+    "description": "Making Vice President Harris look as though she were out to lunch, President Biden even praised DeSantis for doing \u201ca good job\u201d in preparing for Milton, just as he did with Helene, the warmup hurricane to Milton.",
+    "url": "https://www.bostonherald.com/2024/10/12/lucas-kamala-harris-still-playing-second-fiddle/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/10/AP24285718158357.jpg?w=1024&h=683",
+    "publishedAt": "2024-10-12T10:09:52Z",
+    "content": "Making Vice President Harris look as though she were out to lunch, President Biden even praised DeSantis for doing a good job in preparing for Milton, just as he did with Helene, the warmup hurricane\u2026 [+63 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Newgeography.com" },
+    "author": "Joel Kotkin",
+    "title": "Kamala Harris is Hiding the Truth about Her Real Plan for America",
+    "description": "In baseball as well as in American football, there\u2019s something called the \u201chidden ball\u201d trick, where a player hides the round object in order to befuddle the opposition. American politics is experiencing something similar, with politicians, particularly on th\u2026",
+    "url": "http://www.newgeography.com/content/008329-kamala-harris-hiding-truth-about-her-real-plan-america",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T00:28:08Z",
+    "content": "In baseball as well as in American football, theres something called the hidden ball trick, where a player hides the round object in order to befuddle the opposition. American politics is experiencin\u2026 [+3448 chars]"
+  },
+  {
+    "source": { "id": "newsweek", "name": "Newsweek" },
+    "author": "James Bickerton",
+    "title": "Kamala Harris Seriously Lagging Among Black Voters in New Poll",
+    "description": "Kamala Harris has 12 percent less Black voter support than Joe Biden achieved in 2020, according to a new poll.",
+    "url": "https://www.newsweek.com/kamala-harris-seriously-lagging-among-black-voters-new-poll-1968054",
+    "urlToImage": "https://d.newsweek.com/en/full/2493988/vice-president-kamala-harris.jpg",
+    "publishedAt": "2024-10-12T15:38:29Z",
+    "content": "Kamala Harris has substantially lower support amongst Black voters than Joe Biden achieved at the 2020 presidential election, according to a New York Times/Siena College poll.\r\nAccording to the surve\u2026 [+3859 chars]"
+  },
+  {
+    "source": { "id": "newsweek", "name": "Newsweek" },
+    "author": "Kaitlin Lewis",
+    "title": "Kamala Harris' Chances of Winning Arizona as She Ramps Up Rallies",
+    "description": "The vice president spent back-to-back nights in the Grand Canyon State this week as Election Day draws near.",
+    "url": "https://www.newsweek.com/kamala-harris-chances-winning-arizona-1968006",
+    "urlToImage": "https://d.newsweek.com/en/full/2493950/kamala-harris-chances-winning-arizona.jpg",
+    "publishedAt": "2024-10-12T02:05:11Z",
+    "content": "Vice President Kamala Harris homed in on the Southwest this week, spending back-to-back nights rallying supporters in the swing state of Arizona as Election Day inches closer.\r\nThe Democratic preside\u2026 [+3790 chars]"
+  },
+  {
+    "source": { "id": "newsweek", "name": "Newsweek" },
+    "author": "Natalie Venegas",
+    "title": "Kamala Harris' Chances of Winning North Carolina as She Campaigns in State",
+    "description": "The vice president will hold a campaign rally in the swing state on Sunday amid Donald Trump narrowly polling ahead of her there.",
+    "url": "https://www.newsweek.com/kamala-harris-chances-winning-north-carolina-holds-rally-1968153",
+    "urlToImage": "https://d.newsweek.com/en/full/2494096/kamala-harris.jpg",
+    "publishedAt": "2024-10-12T21:47:23Z",
+    "content": "Polling shows Vice President Kamala Harris, the Democratic nominee, and former President Donald Trump, the GOP nominee, are neck-and-neck in the key swing state of North Carolina as Harris prepares t\u2026 [+4345 chars]"
+  },
+  {
+    "source": { "id": "newsweek", "name": "Newsweek" },
+    "author": "https://www.facebook.com/jasonjameslemon/",
+    "title": "Exclusive: Mark Cuban on Backing Kamala Harris and His Concerns About Trump",
+    "description": "\"She is not an ideologue,\" the billionaire Shark Tank star told Newsweek, describing Harris as \"far more stable\" and \"open minded.\"",
+    "url": "https://www.newsweek.com/exclusive-mark-cuban-backing-kamala-harris-his-concerns-about-trump-1967910",
+    "urlToImage": "https://d.newsweek.com/en/full/2493823/mark-cuban-support-harris.png",
+    "publishedAt": "2024-10-12T15:43:21Z",
+    "content": "Mark Cuban believes a second Donald Trump term would be \"worse\" than his first, which is why he's become one of Vice President Kamala Harris' leading evangelists in the 2024 presidential election.\r\nC\u2026 [+6899 chars]"
+  },
+  {
+    "source": { "id": "newsweek", "name": "Newsweek" },
+    "author": "Aila Slisco",
+    "title": "Donald Trump's Colorado Crowd Size Compared to Kamala Harris' Arizona Rally",
+    "description": "Trump held a rally in solidly blue Colorado this week, while Harris focused her attention on swing state Arizona.",
+    "url": "https://www.newsweek.com/donald-trump-colorado-crowd-size-compared-kamala-harris-arizona-rally-1967959",
+    "urlToImage": "https://d.newsweek.com/en/full/2493925/arizona-colorado-trump-harris-rally-crowd-comparison.jpg",
+    "publishedAt": "2024-10-12T00:01:12Z",
+    "content": "Former President Donald Trump and Vice President Kamala Harris held similarly-sized campaign rallies this week in Colorado and Arizona.\r\nTrump, this year's Republican nominee for president, appeared \u2026 [+3317 chars]"
+  },
+  {
+    "source": { "id": "newsweek", "name": "Newsweek" },
+    "author": "Mandy Taheri",
+    "title": "Kamala Harris Gets Good News in Must-Win State From Most Accurate Pollster",
+    "description": "The vice president has pulled ahead of former President Donald Trump in Pennsylvania, according to new poll.",
+    "url": "https://www.newsweek.com/kamala-harris-pennsylvania-poll-lead-donald-trump-1968067",
+    "urlToImage": "https://d.newsweek.com/en/full/2493995/harris-pennsylvania.jpg",
+    "publishedAt": "2024-10-12T15:04:31Z",
+    "content": "Vice President Kamala Harris, the Democratic nominee, is pulling ahead in Pennsylvania, a pivotal battleground state, according to a recent poll from The New York Times/Siena College, which is ranked\u2026 [+3516 chars]"
+  },
+  {
+    "source": { "id": null, "name": "newsBTC" },
+    "author": "Ronaldo Marquez",
+    "title": "Ripple Co-Founder Chris Larsen Sends $1 Million XRP Donation To Kamala Harris",
+    "description": "As the US presidential election approaches, the crypto industry has emerged as a focal point of political debate, with key figures from blockchain payments company Ripple expressing divided support for leading candidates Vice President Kamala Harris and forme\u2026",
+    "url": "http://www.newsbtc.com/ripple-2/ripple-co-founder-chris-larsen-sends-1-million-xrp-donation-to-kamala-harris/",
+    "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2024/10/Screenshot_513.jpg?fit=1308%2C740",
+    "publishedAt": "2024-10-12T05:00:42Z",
+    "content": "As the US presidential election approaches, the crypto industry has emerged as a focal point of political debate, with key figures from blockchain payments company Ripple expressing divided support f\u2026 [+2820 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Bitcoinist" },
+    "author": "Christian Encila",
+    "title": "Ripple\u2019s Generosity: $1 Million XRP Donation Fuels Kamala Harris Campaign",
+    "description": "A million dollar worth of XRP has just been donated by the co-founder of Ripple, Chris Larsen. The benefactor? The US presidential candidate Kamala Harris, through her political committee Future Forward USA. This massive contribution reflects the growing infl\u2026",
+    "url": "https://bitcoinist.com/1m-xrp-donation-fuels-kamala-harris-campaign/",
+    "urlToImage": "https://bitcoinist.com/wp-content/uploads/2024/10/A_8b176a.jpg",
+    "publishedAt": "2024-10-12T23:30:41Z",
+    "content": "A million dollar worth of XRP has just been donated by the co-founder of Ripple, Chris Larsen. The benefactor? The US presidential candidate Kamala Harris, through her political committee Future Forw\u2026 [+2982 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Thegatewaypundit.com" },
+    "author": "Cullen Linebarger",
+    "title": "JUST IN: Medical Report on Kamala Harris Released \u2013 Here are the Details",
+    "description": "This morning, the White House released a medical report on Kamala Harris, though there may be some unanswered questions.\nThe post JUST IN: Medical Report on Kamala Harris Released \u2013 Here are the Details appeared first on The Gateway Pundit.",
+    "url": "https://www.thegatewaypundit.com/2024/10/just-medical-report-kamala-harris-released-here-are/",
+    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/kamala-harris-spacing-out-1200x630.jpg",
+    "publishedAt": "2024-10-12T16:20:19Z",
+    "content": "Credit: Gage Skidmore/Flickr\r\nThis morning, the White House released a medical report on Kamala Harris, though there may be some unanswered questions.\r\nAs the Associated Press reported, Harris\u2019s phys\u2026 [+2405 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Thegatewaypundit.com" },
+    "author": "Cassandra MacDonald",
+    "title": "WATCH: Jon Bon Jovi Uses Kamala Harris Endorsement to Promote Crappy Song He Released Earlier This Year",
+    "description": "Singer Jon Bon Jovi has endorsed Kamala Harris and used it to promote a crappy song that nobody noticed he released earlier this year.\nThe post WATCH: Jon Bon Jovi Uses Kamala Harris Endorsement to Promote Crappy Song He Released Earlier This Year appeared fi\u2026",
+    "url": "https://www.thegatewaypundit.com/2024/10/watch-jon-bon-jovi-uses-kamala-harris-endorsement/",
+    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/00-3.jpg",
+    "publishedAt": "2024-10-12T15:30:14Z",
+    "content": "Singer Jon Bon Jovi has endorsed Kamala Harris and used it to promote a crappy song that nobody noticed he released earlier this year.\r\nThe Peoples House song was released to little fanfare in June.\r\u2026 [+1326 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Thegatewaypundit.com" },
+    "author": "Jordan Conradson",
+    "title": "Trump-Hater Meghan McCain Threatens to \u201cSpill Tea\u201d on What She Remembers Her Father \u201cACTUALLY Saying About Kamala Harris\u201d",
+    "description": "After alienating herself from Republicans and finally getting sick and tired of the Democrats, Meghan McCain appears to be in no man\u2019s land, desperately seeking attention and her chance to finally own the libs.\nThe post Trump-Hater Meghan McCain Threatens to \u2026",
+    "url": "https://www.thegatewaypundit.com/2024/10/trump-hater-meghan-mccain-threatens-spill-tea-what/",
+    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/710465A9-9508-45F4-B5B8-1E1C07441531.jpeg",
+    "publishedAt": "2024-10-12T22:00:33Z",
+    "content": "After alienating herself from Republicans and finally getting sick and tired of the Democrats, Meghan McCain appears to be in no man\u2019s land, desperately seeking attention and her chance to finally ow\u2026 [+2414 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New York Post" },
+    "author": "Doree Lewak, Rich Calder",
+    "title": "Biden sabotaging Kamala Harris\u2019 presidential campaign after being forced to drop re-election bid, pundits say",
+    "description": "President Joe Biden is so bitter about being forced to drop his re-election bid, that he\u2019s deliberately sabotaging Kamala Harris\u2019 campaign, according to a growing chorus of political pundits.",
+    "url": "https://nypost.com/2024/10/12/us-news/biden-sabotaging-kamala-harris-presidential-campaign-after-being-forced-to-drop-re-election-bid-pundits-say/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/us-president-joe-biden-us-91444199.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-12T14:15:09Z",
+    "content": "Et Tu, Biden?\r\nPresident Biden is so bitter about being forced to drop his re-election bid by top members of his own party that hes deliberately sabotaging Kamala Harris campaign, according to a grow\u2026 [+4899 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New York Post" },
+    "author": "Associated Press",
+    "title": "Kamala Harris releasing report on her health and poking Trump for failing to do likewise",
+    "description": "Vice President Kamala Harris plans to release a report Saturday on her medical history and health that a senior campaign aide said would show \u201cshe possesses the physical and mental resiliency\u201d needed to serve as president.",
+    "url": "https://nypost.com/2024/10/12/us-news/kamala-harris-releasing-report-on-her-health-and-poking-trump-for-failing-to-do-likewise/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-ir1k4ales-1728726111175.jpg?quality=75&strip=all&1728711751&w=1024",
+    "publishedAt": "2024-10-12T09:49:12Z",
+    "content": "Vice President Kamala Harris plans to release a report Saturday on her medical history and health that a senior campaign aide said would show she possesses the physical and mental resiliency needed t\u2026 [+1883 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New York Post" },
+    "author": "Fox News",
+    "title": "Bill Maher says lack of support from black men is a bad sign for Kamala Harris",
+    "description": "'When you have an African American candidate, you probably shouldn\u2019t be having to shore up your support among black men,' the HBO host said on Friday",
+    "url": "https://nypost.com/2024/10/12/us-news/why-bill-maher-doesnt-think-kamala-harris-will-win/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-yf56nqvps-1728755735344.jpg?quality=75&strip=all&1728741363&w=1024",
+    "publishedAt": "2024-10-12T18:44:15Z",
+    "content": "HBO host Bill Maher suggested that Vice President Kamala Harris prospects for winning the 2024 presidential election arent looking too good less than a month out from Nov. 5\r\nDuring Friday\u2019s episode \u2026 [+3047 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New York Post" },
+    "author": "Priscilla DeGregory",
+    "title": "Dolphins star Raheem Mostert\u2019s wife receives online hate, racism after calling Kamala Harris \u2018trash\u2019: report",
+    "description": "The wife of NFL player Raheem Moster says she and her kids have received online hate after calling Vice President Kamala Harris \"textbook trash.\"",
+    "url": "https://nypost.com/2024/10/12/us-news/dolphins-star-raheem-mosterts-wife-receives-online-hate-after-calling-vp-harris-trash-report/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/wife-miami-dolphins-running-back-91512103.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-12T22:44:41Z",
+    "content": "The wife of NFL player Raheem Mostert says she and her kids have been on the receiving end of racist vitriol online after calling Kamala Harris \u201ctextbook trash\u201d over her Hurricane Helene spat with th\u2026 [+3352 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New York Post" },
+    "author": "Shane Galvin",
+    "title": "Meghan McCain threatens to \u2018spill tea\u2019 on father\u2019s actual thoughts on Kamala Harris",
+    "description": "Meghan McCain on Friday threatened to share her late father\u2019s honest thoughts about Kamala Harris \u2014 a day after the vice president invoked the memory of John McCain. \u201cThe View\u201d co-host fumed on X as she claimed that Democrats have \u201cbastardized\u201d her father\u2019s m\u2026",
+    "url": "https://nypost.com/2024/10/11/us-news/meghan-mccain-threatens-to-spill-tea-on-fathers-actual-thoughts-on-harris/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91464346.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-12T02:40:37Z",
+    "content": "Meghan McCain on Friday threatened to share her late father\u2019s honest thoughts about Kamala Harris a day after the vice president invoked the memory of John McCain.\r\n\u201cThe View\u201d co-host fumed on X as s\u2026 [+2571 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New York Post" },
+    "author": "Victor Nava",
+    "title": "Kamala Harris laughs through remarks about the importance of the 2024 election: \u2018It\u2019s packed with some stuff!\u2019",
+    "description": "Harris did not appear to be using a teleprompter when she made the remark.",
+    "url": "https://nypost.com/2024/10/11/us-news/kamala-harris-laughs-through-remarks-about-the-importance-of-the-2024-election-its-packed-with-some-stuff/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91459832.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-12T00:42:29Z",
+    "content": "Vice President Kamala Harris on Friday described whats at stake in the 2024 election in notably vague terms telling Arizona voters that its packed with some stuff!\u201d before bursting out in laughter. \r\u2026 [+1797 chars]"
+  },
+  {
+    "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+    "author": "BY RON KAMPEAS/JTA",
+    "title": "\u2018All options are on the table\u2019 to keep Iran from going nuclear, Kamala Harris says",
+    "description": "The phrase \u201call options are on the table\u201d is a familiar one: It was used often by President Barack Obama when he was shaping the 2015 sanctions relief for nuclear rollback deal with Iran.",
+    "url": "https://www.jpost.com/american-politics/article-824286",
+    "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/622799",
+    "publishedAt": "2024-10-12T18:48:13Z",
+    "content": "(JTA) \u2014 WASHINGTON \u2014 In a pre-election High Holidays call with Jewish voters, Vice President Kamala Harris vowed never to allow Iran to obtain a nuclear weapon, saying she would prefer diplomacy but \u2026 [+5743 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Americanthinker.com" },
+    "author": null,
+    "title": "Kamala Harris promises price controls \u2026 and a few unintended consequences",
+    "description": "I just spent a few weeks in the People\u2019s Republic of Minnesota.\r\n\r\nThe Democrat campaign ads were 24/7 promises of unlimited abortion and putting a halt to greedy corporate profiteering.\r\n\r\nCoincidentally, I was re-reading Atlas Shrugged at the...",
+    "url": "https://www.americanthinker.com/blog/2024/10/kamala_harris_promises_price_controls_and_a_few_unintended_consequences.html",
+    "urlToImage": "https://images.americanthinker.com/vi/viewfeuabck25nfmasah_800.JPG",
+    "publishedAt": "2024-10-12T04:00:00Z",
+    "content": "I just spent a few weeks in the People\u2019s Republic of Minnesota.\r\nThe Democrat campaign ads were 24/7 promises of unlimited abortion and putting a halt to greedy corporate profiteering.\r\nCoincidentall\u2026 [+5336 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Americanthinker.com" },
+    "author": null,
+    "title": "Why do Kamala Harris supporters choose to vote against their own best interests?",
+    "description": "The Biden-Harris administration has been the most devastating for the American people in U.S. history.\u00a0\r\n\r\nFrom their opening the border to millions of invaders on day one, to the disastrous withdrawal from Afghanistan, to vaccine mandates and l...",
+    "url": "https://www.americanthinker.com/blog/2024/10/why_do_kamala_harris_supporters_choose_to_vote_against_their_own_best_interests.html",
+    "urlToImage": "https://images.americanthinker.com/qi/qih0hcricv5siehsjbvs_800.JPG",
+    "publishedAt": "2024-10-12T04:00:00Z",
+    "content": "The Biden-Harris administration has been the most devastating for the American people in U.S. history.\u00a0\r\nFrom their opening the border to millions of invaders on day one, to the disastrous withdrawal\u2026 [+7983 chars]"
+  },
+  {
+    "source": { "id": "abc-news", "name": "ABC News" },
+    "author": "The Associated Press",
+    "title": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president",
+    "description": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president",
+    "url": "https://abcnews.go.com/Politics/wireStory/kamala-harris-physician-reports-vice-president-excellent-health-114745344",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2024-10-12T12:45:53Z",
+    "content": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president\r\nOctober 12, 2024, 8:27 AM\r\nWASHINGTON -- Kamala Harris' physician reports the vice presiden\u2026 [+56 chars]"
+  },
+  {
+    "source": { "id": "abc-news", "name": "ABC News" },
+    "author": "The Associated Press",
+    "title": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president",
+    "description": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president",
+    "url": "https://abcnews.go.com/Health/wireStory/kamala-harris-physician-reports-vice-president-excellent-health-114745343",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2024-10-12T12:30:01Z",
+    "content": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president\r\nOctober 12, 2024, 8:27 AM\r\nWASHINGTON -- Kamala Harris' physician reports the vice presiden\u2026 [+56 chars]"
+  },
+  {
+    "source": { "id": "abc-news", "name": "ABC News" },
+    "author": "The Associated Press",
+    "title": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president",
+    "description": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president",
+    "url": "https://abcnews.go.com/US/wireStory/kamala-harris-physician-reports-vice-president-excellent-health-114745286",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2024-10-12T12:53:59Z",
+    "content": "Kamala Harris' physician reports the vice president is in 'excellent health' and fit to serve as president\r\nOctober 12, 2024, 8:27 AM\r\nWASHINGTON -- Kamala Harris' physician reports the vice presiden\u2026 [+56 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "theweek.com",
+    "title": "The life and times of Kamala Harris",
+    "description": "On paper, Kamala Harris is a solid choice, arguably better qualified than any incoming president since George H.W. Bush.\nShe has been both attorney general and senator of the nation's most populous state, California; she has served on the Senate Intelligence \u2026",
+    "url": "https://biztoc.com/x/fa542ade958fc892",
+    "urlToImage": "https://biztoc.com/cdn/fa542ade958fc892_s.webp",
+    "publishedAt": "2024-10-12T06:37:51Z",
+    "content": "On paper, Kamala Harris is a solid choice, arguably better qualified than any incoming president since George H.W. Bush.She has been both attorney general and senator of the nation's most populous st\u2026 [+130 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Kamala Harris Seriously Lagging Among Black Voters in New Poll",
+    "description": "Kamala Harris has 12 percent less Black voter support than Joe Biden achieved in 2020, according to a new poll.",
+    "url": "https://biztoc.com/x/4a795111d2af65d7",
+    "urlToImage": "https://biztoc.com/cdn/803/og.png",
+    "publishedAt": "2024-10-12T15:47:54Z",
+    "content": "Kamala Harris has 12 percent less Black voter support than Joe Biden achieved in 2020, according to a new poll.\r\nThis story appeared on newsweek.com, 2024-10-12."
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Donald Trump's Colorado Crowd Size Compared to Kamala Harris' Arizona Rally",
+    "description": "Trump held a rally in solidly blue Colorado this week, while Harris focused her attention on swing state Arizona.",
+    "url": "https://biztoc.com/x/def202b6e98a7da9",
+    "urlToImage": "https://biztoc.com/cdn/803/og.png",
+    "publishedAt": "2024-10-12T00:09:43Z",
+    "content": "Trump held a rally in solidly blue Colorado this week, while Harris focused her attention on swing state Arizona.\r\nThis story appeared on newsweek.com, 2024-10-12."
+  },
+  {
+    "source": { "id": null, "name": "Investing.com" },
+    "author": "Reuters",
+    "title": "Kremlin says Kamala Harris remarks on Putin expose U.S. view of the world",
+    "description": "Kremlin says Kamala Harris remarks on Putin expose U.S. view of the world",
+    "url": "https://www.investing.com/news/world-news/kremlin-says-kamala-harris-remarks-on-putin-expose-us-view-of-the-world-3660747",
+    "urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+    "publishedAt": "2024-10-12T16:30:47Z",
+    "content": "(Reuters) - The Kremlin said on Saturday that Democratic Party presidential candidate Kamala Harris's description of Russian President Vladimir Putin as a \"murderous dictator\" exposed how politicians\u2026 [+1773 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Kamala Harris Gets Good News in Must-Win State From Most Accurate Pollster",
+    "description": "Vice President Kamala Harris, the Democratic nominee, is pulling ahead in Pennsylvania, a pivotal battleground state, according to a recent poll from The New York Times/Siena College, which is ranked by FiveThirtyEight as the most reliable pollster in the Uni\u2026",
+    "url": "https://biztoc.com/x/dae8fb10a2274e18",
+    "urlToImage": "https://biztoc.com/cdn/dae8fb10a2274e18_s.webp",
+    "publishedAt": "2024-10-12T15:14:17Z",
+    "content": "Vice President Kamala Harris, the Democratic nominee, is pulling ahead in Pennsylvania, a pivotal battleground state, according to a recent poll from The New York Times/Siena College, which is ranked\u2026 [+133 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Kamala Harris' Chances of Winning North Carolina as She Campaigns in State",
+    "description": "Polling shows Vice President Kamala Harris, the Democratic nominee, and former President Donald Trump, the GOP nominee, are neck-and-neck in the key swing state of North Carolina as Harris prepares to hold a campaign rally in the state on Sunday.\nAs Harris pr\u2026",
+    "url": "https://biztoc.com/x/67808f01ab254fe9",
+    "urlToImage": "https://biztoc.com/cdn/67808f01ab254fe9_s.webp",
+    "publishedAt": "2024-10-12T21:55:00Z",
+    "content": "Polling shows Vice President Kamala Harris, the Democratic nominee, and former President Donald Trump, the GOP nominee, are neck-and-neck in the key swing state of North Carolina as Harris prepares t\u2026 [+135 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Investing.com" },
+    "author": "Reuters",
+    "title": "Donald Trump leads Kamala Harris on handling Israel, Ukraine wars, WSJ poll shows",
+    "description": "Donald Trump leads Kamala Harris on handling Israel, Ukraine wars, WSJ poll shows",
+    "url": "https://www.investing.com/news/world-news/donald-trump-leads-kamala-harris-on-handling-israel-ukraine-wars-wsj-poll-shows-3660714",
+    "urlToImage": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
+    "publishedAt": "2024-10-12T09:55:44Z",
+    "content": "(Reuters) - Former Republican President Donald Trump has an edge over Democratic Vice President Kamala Harris on who would better navigate the country through the Ukraine and Middle East wars, a Wall\u2026 [+1723 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Kamala Harris' Chances of Winning Arizona as She Ramps Up Rallies",
+    "description": "The vice president spent back-to-back nights in the Grand Canyon State this week as Election Day draws near.",
+    "url": "https://biztoc.com/x/bd58492aff838647",
+    "urlToImage": "https://biztoc.com/cdn/803/og.png",
+    "publishedAt": "2024-10-12T02:12:00Z",
+    "content": "The vice president spent back-to-back nights in the Grand Canyon State this week as Election Day draws near.\r\nThis story appeared on newsweek.com, 2024-10-12."
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Mark Cuban on Backing Kamala Harris and His Concerns About Trump",
+    "description": "Mark Cuban believes a second Donald Trump term would be \"worse\" than his first, which is why he's become one of Vice President Kamala Harris' leading evangelists in the 2024 presidential election.\nCuban, a billionaire entrepreneur and ABC's Shark Tank televis\u2026",
+    "url": "https://biztoc.com/x/d03dae93bfb00d10",
+    "urlToImage": "https://biztoc.com/cdn/d03dae93bfb00d10_s.webp",
+    "publishedAt": "2024-10-12T15:48:08Z",
+    "content": "Mark Cuban believes a second Donald Trump term would be \"worse\" than his first, which is why he's become one of Vice President Kamala Harris' leading evangelists in the 2024 presidential election.Cub\u2026 [+136 chars]"
+  },
+  {
+    "source": { "id": null, "name": "ZyCrypto" },
+    "author": "Brenda Ngari",
+    "title": "Ripple Chairman Chris Larsen Donates $1 Million In XRP To Kamala Harris\u2019 Campaign Amid SEC Case",
+    "description": "Ripple\u2019s Executive Chairman, Chris Larsen, donated 1 million worth of XRP to a Democratic-aligned political action committee supporting Vice President Kamala Harris.",
+    "url": "https://zycrypto.com/ripple-chairman-chris-larsen-donates-1-million-in-xrp-to-kamala-harris-campaign-amid-sec-case/",
+    "urlToImage": "https://zycrypto.com/wp-content/uploads/2024/05/Ripples-chief-technology-officer-David-Schwartz-addressed-the-rumors-that-he-liquidated-his-XRP-holdings-in-a-recent-post-on-X.jpeg",
+    "publishedAt": "2024-10-12T15:58:50Z",
+    "content": "Ripples Executive Chairman, Chris Larsen, donated 1 million worth of XRP to a Democratic-aligned political action committee supporting Vice President Kamala Harris.\r\nLarsens endorsement of Kamala com\u2026 [+2541 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "zerohedge.com",
+    "title": "Shills For Harris: Kamala Townhall For \"Undecided Latino Voters\" Curated With Avowed Supporters",
+    "description": "Shills For Harris: Kamala Townhall For \"Undecided Latino Voters\" Curated With Avowed Supporters\n \nIndepedent journalist Michael Tracey, working with Glenn Greenwald, has uncovered a remarkable scandal at a recent Kamala Harris townhall hosted by Univision, on\u2026",
+    "url": "https://biztoc.com/x/52deaafc43836503",
+    "urlToImage": "https://biztoc.com/cdn/52deaafc43836503_s.webp",
+    "publishedAt": "2024-10-12T15:14:05Z",
+    "content": "Shills For Harris: Kamala Townhall For \"Undecided Latino Voters\" Curated With Avowed Supporters\r\nIndepedent journalist Michael Tracey, working with Glenn Greenwald, has uncovered a remarkable scandal\u2026 [+139 chars]"
+  },
+  {
+    "source": { "id": null, "name": "CryptoGlobe" },
+    "author": "CryptoGlobe Writer",
+    "title": "Ripple Co-Founder Chris Larsen Donates $1 Million in XRP to Kamala Harris\u2019 2024 Campaign via PAC",
+    "description": "The co-founder of fintech giant Ripple, Chris Larsen, has made the first documented cryptocurrency donation to U.S. Presidential candidate and current Vice President Kamala Harris, sending $1 million worth of XRP to a Political Action Committee (PAC) supporti\u2026",
+    "url": "https://www.cryptoglobe.com/latest/2024/10/ripple-co-founder-chris-larsen-donates-1-million-in-xrp-to-kamala-harris-2024-campaign-via-pac/",
+    "urlToImage": "https://media.cryptoglobe.com/2021/07/ripple-6237041_1280-768x512.jpg",
+    "publishedAt": "2024-10-12T01:56:00Z",
+    "content": "The co-founder of fintech giant Ripple, Chris Larsen, has made the first documented cryptocurrency donation to U.S. Presidential candidate and current Vice President Kamala Harris, sending $1 million\u2026 [+2012 chars]"
+  },
+  {
+    "source": { "id": null, "name": "NDTV News" },
+    "author": "Anushka De",
+    "title": "AR Rahman Records 30-Minute Performance To Support Kamala Harris Campaign",
+    "description": "Award-winning Indian music composer AR Rahman has recorded a 30-minute performance video to support Kamala Harris in her presidential campaign, ahead of the US elections this year.",
+    "url": "https://www.ndtv.com/world-news/ar-rahman-records-30-minute-performance-to-support-kamala-harris-campaign-6771420",
+    "urlToImage": "https://c.ndtvimg.com/2024-10/tapl5md8_ar-rahman-kamala-harris-_625x300_12_October_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "publishedAt": "2024-10-12T03:28:52Z",
+    "content": "New Delhi: Award-winning Indian music composer AR Rahman has recorded a 30-minute performance video to support Kamala Harris in her presidential campaign, ahead of the US elections this year, making \u2026 [+1709 chars]"
+  },
+  {
+    "source": { "id": null, "name": "NDTV News" },
+    "author": "Reuters",
+    "title": "Kamala Harris Makes Medical Report Public, Claims Trump Refuses To Do So",
+    "description": "Vice President Kamala Harris, the Democratic presidential nominee, released a letter from her doctor on Saturday that pronounced her in good health and fit for high office, in an effort to draw a contrast with her counterpart, Donald Trump.",
+    "url": "https://www.ndtv.com/world-news/kamala-harris-makes-medical-report-public-claims-donald-trump-refuses-to-do-so-6775361",
+    "urlToImage": "https://c.ndtvimg.com/2024-09/if09613_kamala-harris_625x300_25_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "publishedAt": "2024-10-12T16:13:08Z",
+    "content": "Washington: Vice President Kamala Harris, the Democratic presidential nominee, released a letter from her doctor today that pronounced her in good health and fit for high office, in an effort to draw\u2026 [+2365 chars]"
+  },
+  {
+    "source": { "id": null, "name": "[Removed]" },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T17:40:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": { "id": null, "name": "Rolling Stone" },
+    "author": "Daniel Kreps",
+    "title": "Neil Young Pens Endorsement for Kamala Harris: \u2018She\u2019s My Candidate\u2019",
+    "description": "\"She is an honest forthright truth teller who is experienced in the White House, free from ambiguity or evasiveness, who goes straight to the point,\" rocker writes of vice president",
+    "url": "http://www.rollingstone.com/music/music-news/neil-young-kamala-harris-endorsement-1235132588/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/10/GettyImages-2173696534.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2024-10-12T13:03:28Z",
+    "content": "Neil Young has penned a resounding endorsement for Kamala Harris, detailing the reasons \u201cwhy I love\u201d the vice president.\r\n\u201cShe is an honest forthright truth teller who is experienced in the White Hou\u2026 [+1190 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "mtracey.net",
+    "title": "Univision's Kamala Harris \"town hall\" for \"undecided Latino Voters\" was actually filled with avowed Kamala supporters",
+    "description": "Last night\u2019s Univision \u201ctown hall\u201d with Kamala Harris was billed as an exciting opportunity for \u201cundecided Latino voters\u201d to question and evaluate the potential next President of the United States. The corporate press release from Univision advertises it expl\u2026",
+    "url": "https://freerepublic.com/focus/f-chat/4270464/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T11:42:28Z",
+    "content": "Skip to comments.\r\nUnivision's Kamala Harris \"town hall\" for \"undecided Latino Voters\" was actually filled with avowed Kamala supportersmtracey.net ^\r\n | October 11, 2024\r\n | MICHAEL TRACEY\r\nPosted o\u2026 [+2746 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "UnHerd",
+    "title": "The Kamala Harris honeymoon is coming to an end",
+    "description": "This is the race Democrats feared. Less than a month before the US election, Donald Trump is regaining the slight edge he held before Democrats convened in Chicago to nominate Kamala Harris. According to the RealClearPoliticspolling average in battleground st\u2026",
+    "url": "https://freerepublic.com/focus/f-bloggers/4270580/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T22:33:02Z",
+    "content": "Skip to comments.\r\nThe Kamala Harris honeymoon is coming to an endUnHerd ^\r\n | October 11, 2024\r\n | Emily Jashinsky\r\nPosted on 10/12/2024 3:33:02 PM PDT by SharpRightTurn\r\nThis is the race Democrats \u2026 [+7581 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "NY Post",
+    "title": "Kamala Harris mingled with Tehran regime operative who promotes terrorism",
+    "description": "Iranian operatives in the US fund and fuel hate on campus and spread propaganda across the country \u2014 and even get face time with friendly American elected officials, according to an alarming new report on extremism by George Washington University researchers.\u2026",
+    "url": "https://freerepublic.com/focus/f-chat/4270576/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T21:56:51Z",
+    "content": "Skip to comments.\r\nKamala Harris mingled with Tehran regime operative who promotes terrorismNY Post ^\r\n | 10/12/24\r\n | Jon Levine, Matthew Sedacca\r\nPosted on 10/12/2024 2:56:51 PM PDT by Libloather\r\n\u2026 [+2640 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "UnHerd",
+    "title": "The Kamala Harris honeymoon is coming to an end",
+    "description": "This is the race Democrats feared. Less than a month before the US election, Donald Trump is regaining the slight edge he held before Democrats convened in Chicago to nominate Kamala Harris. According to the RealClearPoliticspolling average in battleground st\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270580/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T22:33:02Z",
+    "content": "Skip to comments.\r\nThe Kamala Harris honeymoon is coming to an endUnHerd ^\r\n | October 11, 2024\r\n | Emily Jashinsky\r\nPosted on 10/12/2024 3:33:02 PM PDT by SharpRightTurn\r\nThis is the race Democrats \u2026 [+7459 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Breitbart",
+    "title": "Report: Dramatic Drop in Early Voting Could Be Bad News for Kamala Harris",
+    "description": "The number of early voters and requests for mail-in ballots for the current presidential race are significantly down compared to this point in the 2020 election cycle, political analyst John Couvillon reported. Early voting is \u201cnowhere near what some people e\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270572/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T21:20:40Z",
+    "content": "Skip to comments.\r\nReport: Dramatic Drop in Early Voting Could Be Bad News for Kamala HarrisBreitbart ^\r\n | 10/12/2024\r\n | OLIVIA RONDEAU\r\nPosted on 10/12/2024 2:20:40 PM PDT by ChicagoConservative27\u2026 [+2541 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Daily Caller",
+    "title": "National Guard Puts Down Viral Rumors About Kamala Harris Posing With Hurricane Aid",
+    "description": "The North Carolina National Guard explained to the Daily Caller why a plane loaded with aid for those affected by Hurricane Helene during Vice President Kamala Harris\u2019 visit never made the delivery following claims that the visit was staged. While on Shawn Ry\u2026",
+    "url": "https://freerepublic.com/focus/f-bloggers/4270423/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T02:16:19Z",
+    "content": "Skip to comments.\r\nNational Guard Puts Down Viral Rumors About Kamala Harris Posing With Hurricane AidDaily Caller ^\r\n | October 11, 2024\r\n | Reagan Reese - White House Correspondent\r\nPosted on 10/11\u2026 [+5276 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Nypost",
+    "title": "Biden sabotaging Kamala Harris\u2019 presidential campaign after being forced to drop re-election bid, pundits say",
+    "description": "Et Tu, Biden? President Biden is so bitter about being forced to drop his re-election bid by top members of his own party that he\u2019s deliberately sabotaging Kamala Harris\u2019 campaign, according to a growing chorus of political pundits. Since being pressured out \u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270496/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T14:33:08Z",
+    "content": "Skip to comments.\r\nBiden sabotaging Kamala Harris presidential campaign after being forced to drop re-election bid, pundits sayNypost ^\r\n | 10/12/2024\r\n | By Doree Lewak and Rich Calder\r\nPosted on 10\u2026 [+2232 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Breitbart",
+    "title": "Bon Jovi Endorses Kamala Harris in Cringey Song Confessing His \u2018Privilege\u2019",
+    "description": "Pop star Jon Bon Jovi is celebrating his endorsement of Kamala Harris by releasing a new music video that portrays a potential Kamala presidency as a \u201chouse of love.\u201d On Friday, Jon Bon Jovi announced his endorsement of Kamala Harris, writing on social media:\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270412/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T00:45:45Z",
+    "content": "Skip to comments.\r\nBon Jovi Endorses Kamala Harris in Cringey Song Confessing His PrivilegeBreitbart ^\r\n | 10/11/2024\r\n | David NG\r\nPosted on 10/11/2024 5:45:45 PM PDT by ChicagoConservative27\r\nPop s\u2026 [+5085 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Daily Fail",
+    "title": "Kamala Harris received poor marks for leadership as a lawyer in San Francisco",
+    "description": "Kamala Harris received poor job performance reviews when she worked as a civil lawyer for the City of San Francisco, according to a copy of city documents obtained by DailyMail.com. The now vice president took a job with the City of San Francisco after she re\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270409/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T00:33:39Z",
+    "content": "Skip to comments.\r\nKamala Harris received poor marks for leadership as a lawyer in San FranciscoDaily Fail ^\r\n | October 11, 2024\r\n | Charlie Spiering, Senior Political Reporter, Washington, Dc\r\nPost\u2026 [+2182 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "NY Post",
+    "title": "Meghan McCain threatens to \u2018spill tea\u2019 on father\u2019s actual thoughts on Kamala Harris",
+    "description": "Meghan McCain on Friday threatened to share her late father\u2019s honest thoughts about Kamala Harris \u2014 a day after the vice president invoked the memory of John McCain at an Arizona campaign rally. \u201cThe View\u201d co-host fumed on X as she claimed that Democrats have\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270454/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T07:15:31Z",
+    "content": "Skip to comments.\r\nMeghan McCain threatens to spill tea on fathers actual thoughts on Kamala Harris NY Post ^\r\n | October 11, 2024\r\n | Shane Galvin\r\nPosted on 10/12/2024 12:15:31 AM PDT by Dahoser\r\nM\u2026 [+1895 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "daily mail",
+    "title": "Donald Trump makes horrific remark about Kamala Harris during wild rant at billionaires' fundraiser",
+    "description": "Donald Trump called his opponent Kamala Harris 'retarded' as he lashed out at Republican donors at a private fundraiser. The former president was giving a speech to some of the wealthiest Americans at Trump Tower in New York City on September 29. Instead of s\u2026",
+    "url": "https://freerepublic.com/focus/f-backroom/4270575/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T21:52:02Z",
+    "content": "Skip to comments.\r\nDonald Trump makes horrific remark about Kamala Harris during wild rant at billionaires' fundraiserdaily mail ^Posted on 10/12/2024 2:52:02 PM PDT by algore\r\nDonald Trump called hi\u2026 [+7978 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Newsweek",
+    "title": "Kamala Harris Gets Lackluster Support Among Black Voters in New Poll",
+    "description": "Kamala Harris has substantially lower support amongst Black voters than Joe Biden achieved at the 2020 presidential election, according to a New York Times/Siena College poll.",
+    "url": "https://freerepublic.com/focus/f-news/4270516/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T16:44:19Z",
+    "content": "Skip to comments.\r\nKamala Harris Gets Lackluster Support Among Black Voters in New PollNewsweek ^\r\n | 10/12/24\r\n | Newsweek\r\nPosted on 10/12/2024 9:44:19 AM PDT by DallasBiff\r\nKamala Harris has subst\u2026 [+1786 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "X",
+    "title": "Jimmy Kimmel's writer, Jacob Reed, directed an ad for the Kamala Harris campaign titled 'Men for Kamala.' However, none of the men in the ad are actually regular voters\u2014they are paid actors.",
+    "description": "- Wayland McQueen is a far-left, pro-Antifa comedian and actor who has, until now, found limited success. He does improv gigs at the Upright Citizens Brigade in Los Angeles. In a Twitter post from 2022, he explains what white privilege is and tells you why yo\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270473/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T12:54:46Z",
+    "content": "Skip to comments.\r\nJimmy Kimmel's writer, Jacob Reed, directed an ad for the Kamala Harris campaign titled 'Men for Kamala.' However, none of the men in the ad are actually regular votersthey are pai\u2026 [+3429 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "UK Daily Mail",
+    "title": "Dude...No! Pro-Kamala Harris ad targeting 'real men' is mocked as the 'cringiest ever created': 'Have they ever met a male human?'",
+    "description": "A new video promoting Vice President Kamala Harris for president is making a splash as it appeals to men by redefining masculinity in 'cringey' terms. The video features various men declaring their interest in 'manly clich\u00e9s' like bears, drinking bourbon, eat\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270469/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T12:48:52Z",
+    "content": "Skip to comments.\r\nDude...No! Pro-Kamala Harris ad targeting 'real men' is mocked as the 'cringiest ever created': 'Have they ever met a male human?'UK Daily Mail ^\r\n | October 12 2024\r\n | Charlie Sp\u2026 [+2914 chars]"
+  },
+  {
+    "source": { "id": null, "name": "The Star Online" },
+    "author": "The Star Online",
+    "title": "Kremlin says Kamala Harris remarks on Putin expose U.S. view of the world",
+    "description": "(Reuters) - The Kremlin said on Saturday that Democratic Party presidential candidate Kamala Harris's description of Russian President Vladimir Putin as a \"murderous dictator\" exposed how politicians in Washington sought to impose their views on the world. Re\u2026",
+    "url": "https://www.thestar.com.my/news/world/2024/10/13/kremlin-says-kamala-harris-remarks-on-putin-expose-us-view-of-the-world",
+    "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/10/13/2961350.jpg",
+    "publishedAt": "2024-10-12T16:36:00Z",
+    "content": "(Reuters) - The Kremlin said on Saturday that Democratic Party presidential candidate Kamala Harris's description of Russian President Vladimir Putin as a \"murderous dictator\" exposed how politicians\u2026 [+1815 chars]"
+  },
+  {
+    "source": { "id": null, "name": "RealClearPolitics" },
+    "author": null,
+    "title": "David Brooks: Kamala Harris' Momentum Has Stalled, Made A Major Mistake By Not Breaking With Biden",
+    "description": "New York Times columnist David Brooks and Washington Post associate editor Jonathan Capehart join Geoff Bennett to discuss the week in politics, including the race for the White House enters its final weeks with some Democrats concerned Kamala Harris' momentu\u2026",
+    "url": "https://www.realclearpolitics.com/video/2024/10/12/david_brooks_kamala_harris_momentum_has_stalled_made_a_major_mistake_by_not_breaking_with_biden.html",
+    "urlToImage": "https://assets.realclear.com/images/66/666125_5_.jpg",
+    "publishedAt": "2024-10-12T19:29:49Z",
+    "content": "GEOFF BENNETT, PBS NEWSHOUR: So, the polls show a race that is as tight as ever 25 days out from Election Day, and Democrats are doing what Democrats do best. They are worrying, they are fretting tha\u2026 [+1210 chars]"
+  },
+  {
+    "source": { "id": "the-times-of-india", "name": "The Times of India" },
+    "author": "Reuters",
+    "title": "Kamala Harris plans to make her medical information public. How will it affect Trump?",
+    "description": "Vice President Kamala Harris intends to release her medical records publicly on Saturday to emphasize Donald Trump's refusal to do so. Harris, 59, aims to contrast her physical and mental fitness with the 78-year-old Trump in the tight presidential race, hopi\u2026",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/kamala-harris-plans-to-make-her-medical-information-public-how-will-it-affect-trump/articleshow/114168805.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-114169013,width-1200,height-630,imgsize-74336,overlay-economictimes/photo.jpg",
+    "publishedAt": "2024-10-12T09:11:19Z",
+    "content": "Vice President Kamala Harris, the Democratic presidential nominee, plans to make her medical information public on Saturday in an effort to draw attention to Republican rival Donald Trump's refusal t\u2026 [+1052 chars]"
+  },
+  {
+    "source": { "id": "the-times-of-india", "name": "The Times of India" },
+    "author": "The Feed",
+    "title": "Kamala Harris leads among women in most swing states except Arizona, according to a poll",
+    "description": "According to a recent Emerson College poll, Vice President Kamala Harris is leading among women voters in six key swing states, except Arizona, where former President Donald Trump has an edge. Analysts believe the state's large Latino population, which is foc\u2026",
+    "url": "https://economictimes.indiatimes.com/news/international/us/kamala-harris-leads-among-women-in-most-swing-states-except-arizona-according-to-a-poll/articleshow/114173631.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-114173662,width-1200,height-630,imgsize-992960,overlay-economictimes/photo.jpg",
+    "publishedAt": "2024-10-12T13:04:37Z",
+    "content": "According to a poll, Kamala Harris leads with women in all swing states except one.The women's vote, which accounts for approximately 51% of the US population, will most likely play a significant rol\u2026 [+2859 chars]"
+  },
+  {
+    "source": { "id": "the-times-of-india", "name": "The Times of India" },
+    "author": "AP",
+    "title": "As Kamala Harris' doctor reports she's excellent health, her campaign wants to draw contrast with Donald Trump",
+    "description": "Dr Joshua Simmons, a US Army colonel and physician to the vice president, wrote that Harris, 59, maintains a healthy, active lifestyle and that her most recent physical last April was \u201cunremarkable.\u201d She \u201cpossesses the physical and mental resiliency required \u2026",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/as-kamala-harris-doctor-reports-shes-excellent-health-her-campaign-wants-to-draw-contrast-with-donald-trump/articleshow/114173707.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-114173699,width-1200,height-630,imgsize-74336,overlay-economictimes/photo.jpg",
+    "publishedAt": "2024-10-12T13:07:33Z",
+    "content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
+  },
+  {
+    "source": { "id": null, "name": "Checkyourfact.com" },
+    "author": "Elias Atienza",
+    "title": "Here\u2019s What We Know About Claims That Kamala Harris Staged A Photo Op For Hurricane Helene Aid",
+    "description": "Social media users are claiming that Vice President Kamala Harris staged a photo op with a North Carolina Air National Guard C-17 for Hurricane Helene and that the supplies loaded on the aircraft never went out. THIS SHOULD PISS YOU OFF. Apparently Kamala Har\u2026",
+    "url": "https://checkyourfact.com/2024/10/12/harris-staged-photo-op-hurricane-helene/",
+    "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/10/GettyImages-2176737224-scaled-e1728344543416.jpg",
+    "publishedAt": "2024-10-12T12:51:47Z",
+    "content": "Social media users are claimingthat Vice President Kamala Harris staged a photo op with a North Carolina Air National Guard C-17 for Hurricane Helene and that the supplies loaded on the aircraft neve\u2026 [+4830 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New Zealand Herald" },
+    "author": "Robert G. Patman and Alexander Gillespie",
+    "title": "US Presidential election: Why the NZ Government will be hoping for a Kamala Harris win over Donald Trump",
+    "description": "OPINION: The current National-led coalition inherited close relations with the US.",
+    "url": "https://www.nzherald.co.nz/nz/us-presidential-election-why-the-nz-government-will-be-hoping-for-a-kamala-harris-win/DBXXSR4BNRDONCFWZTYBJVLAAI/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/H7IEGPQ5YVHTJH6UYLUAYZY5B4.jpg?auth=c38a0f08c89d8147dc1fbd1fea19d2afa369522b8034fb98b36990af5b5709e5&width=1200&height=675&quality=70&focal=797%2C327&smart=false",
+    "publishedAt": "2024-10-12T03:00:00Z",
+    "content": "Since the end of World War II, all New Zealand Governments have supported multilateralism and an international rules-based order enshrined in the institutions of the United Nations.\r\nThe relationship\u2026 [+4978 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Slashdot.org" },
+    "author": "EditorDavid",
+    "title": "California Newspaper Creates AI-Powered 'News Assistant' for Kamala Harris Info",
+    "description": "After nearly 30 years of covering Kamala Harris, the San Francisco Chronicle is now letting ChatGPT do it. Sort of... \n\n\"We're introducing a new way to engage with our decades of coverage: an AI-powered tool designed to answer your questions about Harris' lif\u2026",
+    "url": "https://politics.slashdot.org/story/24/10/12/1823237/california-newspaper-creates-ai-powered-news-assistant-for-kamala-harris-info",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "publishedAt": "2024-10-12T22:34:00Z",
+    "content": "After nearly 30 years of covering Kamala Harris, the San Francisco Chronicle is now letting ChatGPT do it. Sort of...\"We're introducing a new way to engage with our decades of coverage: an AI-powered\u2026 [+1628 chars]"
+  },
+  {
+    "source": { "id": "breitbart-news", "name": "Breitbart News" },
+    "author": "Olivia Rondeau, Olivia Rondeau",
+    "title": "Report: Dramatic Drop in Early Voting Could Be Bad News for Kamala Harris",
+    "description": "The number of early voters and requests for mail-in ballots for the current presidential race are significantly down compared to this point in the 2020 election cycle, political analyst John Couvillon reported.\nThe post Report: Dramatic Drop in Early Voting C\u2026",
+    "url": "https://www.breitbart.com/2024-election/2024/10/12/dramatic-drop-early-voting-could-be-bad-news-kamala-harris/",
+    "urlToImage": "https://media.breitbart.com/media/2024/10/Kamala-Harris-closeup-fright-ap-640x335.jpg",
+    "publishedAt": "2024-10-12T19:51:51Z",
+    "content": "The number of early voters and requests for mail-in ballots for the current presidential race are significantly down compared to this point in the 2020 election cycle, political analyst John Couvillo\u2026 [+1703 chars]"
+  },
+  {
+    "source": { "id": "breitbart-news", "name": "Breitbart News" },
+    "author": "Hannah Knudsen, Hannah Knudsen",
+    "title": "Exclusive -- Elise Stefanik: Kamala Harris 'Underperforming Where Joe Biden Was in 2020' in Swing Districts",
+    "description": "Vice President Kamala Harris is \"underperforming where Joe Biden was in 2020\" in swing districts in New York, Rep. Elise Stefanik said.\nThe post Exclusive \u2014 Elise Stefanik: Kamala Harris \u2018Underperforming Where Joe Biden Was in 2020\u2019 in Swing Districts appeare\u2026",
+    "url": "https://www.breitbart.com/politics/2024/10/12/exclusive-elise-stefanik-kamala-harris-underperforming-where-joe-biden-was-2020-swing-districts/",
+    "urlToImage": "https://media.breitbart.com/media/2024/10/Elise-Stefanik-640x335.jpg",
+    "publishedAt": "2024-10-12T18:01:52Z",
+    "content": "Vice President Kamala Harris is \u201cunderperforming where Joe Biden was in 2020\u201d in swing districts in New York, House Republican Conference Chair Rep. Elise Stefanik (R-NY) said during an interview on \u2026 [+3262 chars]"
+  },
+  {
+    "source": { "id": "breitbart-news", "name": "Breitbart News" },
+    "author": "Hannah Knudsen, Hannah Knudsen",
+    "title": "Exclusive -- Elise Stefanik: Kamala Harris Hype 'Fake from the Get-Go'; Media Are 'Sycophants and Stenographers for the Left'",
+    "description": "The hype for Vice President Kamala Harris was \"fake from the get-go,\" and the mainstream media have been exposed as \"sycophants and stenographers for the left\" amid Harris's collapse, Rep. Elise Stefanik (R-NY) said during an appearance on Breitbart News Satu\u2026",
+    "url": "https://www.breitbart.com/radio/2024/10/12/elise-stefanik-kamala-harris-hype-fake-get-go-media-sycophants-stenographers-left/",
+    "urlToImage": "https://media.breitbart.com/media/2024/10/Elise-Stefanik-pointing-up-ap-640x335.jpg",
+    "publishedAt": "2024-10-12T18:29:13Z",
+    "content": "The hype for Vice President Kamala Harris was \u201cfake from the get-go,\u201d and the mainstream media have been exposed as \u201csycophants and stenographers for the left\u201d amid Harris\u2019s collapse, Rep. Elise Stef\u2026 [+2075 chars]"
+  },
+  {
+    "source": { "id": null, "name": "[Removed]" },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T13:20:12Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": { "id": null, "name": "Mother Jones" },
+    "author": "Abby Vesoulis",
+    "title": "Kamala Harris Has Great Health Vitals, Says Her Doc. We Still Don\u2019t Know About Trump.",
+    "description": "Vice President Kamala Harris had an appendectomy when she was three. She is up-to-date on preventative care screenings, like colonoscopies and mammograms. She has managed seasonal allergies and sporadic skin reactions with a nasal spray and Claritin, and she \u2026",
+    "url": "https://www.motherjones.com/politics/2024/10/kamala-harris-excellent-health-trump-wont-reveal-details-obesity-covid-old-age/",
+    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2024/10/trump-rnc-ear-bandage2.jpg?w=1200&h=630&crop=1",
+    "publishedAt": "2024-10-12T17:51:37Z",
+    "content": "Former President DONALD TRUMP is seen in the Fiserv Forum on the last night of the Republican National Convention in Milwaukee, Wisconsin. A bandage is still taped on his ear from the assassination a\u2026 [+4822 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Fox News Staff",
+    "title": "JESSE WATTERS: Kamala Harris has a 'man problem'",
+    "description": "Fox News host Jesse Watters breaks down why Vice President Kamal Harris' campaign is struggling to appeal to male voters.",
+    "url": "https://www.foxnews.com/media/jesse-watters-kamala-harris-has-man-problem",
+    "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+    "publishedAt": "2024-10-12T01:01:15Z",
+    "content": "Fox News host Jesse Watters breaks down why Vice President Kamal Harris' campaign is struggling to appeal to male voters.\r\nWATTERS: Kamala Harris has a man problem. White dudes for Harris isn't worki\u2026 [+883 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Chris Pandolfo",
+    "title": "White House releases medical report on VP Kamala Harris",
+    "description": "The White House on Saturday released a medical report from Vice President Kamala Harris' doctor, indicating that she is in 'excellent health' and is fit to serve as president.",
+    "url": "https://www.foxnews.com/politics/white-house-releases-medical-report-vp-kamala-harris",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/kamala-harris.jpg",
+    "publishedAt": "2024-10-12T13:12:15Z",
+    "content": "The White House on Saturday released a report from Vice President Kamala Harris' doctor declaring her to be in \"excellent health.\"\u00a0\r\nThe report, which was previewed by a senior Harris campaign aide, \u2026 [+634 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Joshua Nelson",
+    "title": "'Wrong' for Barack Obama to 'lecture' Black men for not supporting Kamala Harris: Ex-Bernie Sanders adviser",
+    "description": "Former Bernie Sanders campaign adviser Nina Turner ripped\u00a0former President Obama for singling out Black men who are not enthusiastic about Vice President Kamala Harris.",
+    "url": "https://www.foxnews.com/media/wrong-barack-obama-lecture-black-men-not-supporting-kamala-harris-ex-bernie-sanders-adviser",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/screenshot-2024-10-11-at-6.11.35\u202fpm.png",
+    "publishedAt": "2024-10-12T00:00:18Z",
+    "content": "A former Bernie Sanders campaign adviser slammed\u00a0former President Barack Obama\r\n Thursday for calling out Black men who do not support Vice President Kamala Harris.\r\n\"Why are Black men being lectured\u2026 [+2812 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Slashdot.org" },
+    "author": "feedfeeder",
+    "title": "Kamala Harris Surges Ahead of Donald Trump in New National Poll - Newsweek",
+    "description": "Kamala Harris Surges Ahead of Donald Trump in New National PollNewsweek Exclusive | Battle for Swing States Is Tied, Trump Has Edge on Top Issues, WSJ Poll ShowsThe Wall Street Journal Donald Trump, Kamala Harris Odds of Winning in Every Major Poll This WeekN\u2026",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175236201",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T00:13:43Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+    "source": { "id": null, "name": "Slashdot.org" },
+    "author": "feedfeeder",
+    "title": "Can Kamala Harris beat Donald Trump? Latest poll updates from the 2024 election - The Independent",
+    "description": "Can Kamala Harris beat Donald Trump? Latest poll updates from the 2024 electionThe Independent Trump Leads in Arizona as Harris Holds an Edge in Pennsylvania, New Polls ShowThe New York Times Exclusive | Trump Has Clear Edge on Handling Israel, Ukraine Wars, \u2026",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175240757",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T22:53:03Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+    "source": { "id": null, "name": "Slashdot.org" },
+    "author": "feedfeeder",
+    "title": "Kamala Harris' Campaign Posts Clips of Obama Trashing Trump on Truth Social - Newsweek",
+    "description": "Kamala Harris' Campaign Posts Clips of Obama Trashing Trump on Truth SocialNewsweek Obama\u2019s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?The Associated Press Obama sends stark warning message to DemocratsThe Hill How\u2026",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175239867",
+    "urlToImage": null,
+    "publishedAt": "2024-10-12T18:52:34Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
   }
 ]

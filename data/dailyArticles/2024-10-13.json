@@ -1,13 +1,33 @@
 [
   {
-    "source": { "id": "abc-news", "name": "ABC News" },
-    "author": "Tal Axelrod",
-    "title": "Beshear fleshes out difference between Biden, Harris agendas",
-    "description": "Andy Beshear offered a contrast between the agendas of President Joe Biden and Kamala Harris after the vice president struggled to paint clear differences.",
-    "url": "https://abcnews.go.com/Politics/beshear-fleshes-difference-biden-harris-agendas/story?id=114751516",
-    "urlToImage": "https://i.abcnewsfe.com/a/27af26f1-17a2-4dfb-8a3c-3f39da9e81d6/andy-beshear-gty-jt-241012_1728747354175_hpMain_16x9.jpg?w=1600",
-    "publishedAt": "2024-10-13T13:33:15Z",
-    "content": "Democratic Kentucky Gov. Andy Beshear offered a contrast between the agendas of President Joe Biden and Kamala Harris after the vice president struggled this week to paint clear differences between h\u2026 [+1625 chars]"
+    "source": { "id": "time", "name": "Time" },
+    "author": "MICHAEL R. BLOOD and MEG KINNARD / AP",
+    "title": "Donald Trump Holds a Rally in California, Kamala Harris\u2019 Home State",
+    "description": "With the presidency on the line in battlegrounds like Wisconsin and Pennsylvania, Trump\u00a0spent Saturday night\u00a0in solidly liberal California.",
+    "url": "https://time.com/7086412/donald-trump-rally-california-kamala-harris-home-state/",
+    "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/AP24287043932968.jpg?quality=85&w=1200&h=628&crop=1",
+    "publishedAt": "2024-10-13T10:23:03Z",
+    "content": "COACHELLA, Calif. With the presidency on the line in battlegrounds like Wisconsin and Pennsylvania, Donald Trump spent Saturday night in solidly liberal California, seeking to link Vice President Kam\u2026 [+5291 chars]"
+  },
+  {
+    "source": { "id": null, "name": "PEOPLE" },
+    "author": "Marina Watts",
+    "title": "Donald Trump Calls Kamala Harris the R-Word at Dinner with Billionaire Donors: Report",
+    "description": "The former president reportedly lashed out about donors not appreciating him at the dinner, according to 'The New York Times'",
+    "url": "https://people.com/donald-trump-calls-kamala-harris-the-r-word-at-dinner-with-billionaire-donors-report-8727651",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h7LL7l0_twIpXcADmXQ8fg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/eea80a5b7bdd0f082e1cd84d18740a68",
+    "publishedAt": "2024-10-13T17:52:57Z",
+    "content": "The former president reportedly lashed out about donors not appreciating him at the dinner, according to 'The New York Times'\r\nSteven Hirsch-Pool/Getty; David Paul Morris/Bloomberg via Getty\r\n Donald\u2026 [+2545 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Deadline" },
+    "author": "Ted Johnson",
+    "title": "\u2018Saturday Night Live\u2019 Cold Open Pits Donald Trump Against Kamala Harris In A Game Of \u2018Family Feud\u2019",
+    "description": "Saturday Night Live mocked Donald Trump\u2019s refusal to do another debate and instead had him face off with Kamala Harris in Family Feud. With Kenan Thompson as emcee Steve Harvey, the cold open brought back the election season regulars: Maya Rudolph as Harris, \u2026",
+    "url": "http://deadline.com/2024/10/saturday-night-live-trump-kamala-harris-family-feud-1236114433/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/snl-family-feud-donald-trump-kamala-harris.jpg?w=1024",
+    "publishedAt": "2024-10-13T03:56:59Z",
+    "content": "Saturday Night Livemocked Donald Trump\u2018s refusal to do another debate and instead had him face off with Kamala Harris in Family Feud.\r\nWith Kenan Thompson as emcee Steve Harvey, the cold open brought\u2026 [+851 chars]"
   },
   {
     "source": { "id": null, "name": "Yahoo Entertainment" },
@@ -20,34 +40,24 @@
     "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
   },
   {
-    "source": { "id": "cbs-news", "name": "CBS News" },
-    "author": "CBS News",
-    "title": "Harris releases medical records, pressures Trump to follow suit",
-    "description": "Vice President Kamala Harris is in \"excellent health,\" according to her physician Saturday in a letter that detailed her medical status. Harris also called on former President Donald Trump to release his medical records. Earlier this year, Trump told CBS News\u2026",
-    "url": "https://www.cbsnews.com/video/harris-releases-medical-records-pressures-trump-to-follow-suit/",
-    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/12/bc1a4f46-78f5-4150-b7e4-75f1eeb51349/thumbnail/1200x630/5bb27420012817f47409394adc634174/killion.jpg?v=29b5ccc4d237d9b284ce95a42effd073",
-    "publishedAt": "2024-10-13T01:13:00Z",
-    "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    "source": { "id": null, "name": "Crooksandliars.com" },
+    "author": "Susie Madrak",
+    "title": "The Day Kamala Harris Was Interviewed By The King Of All Media",
+    "description": "Donald Trump tore into Howard Stern, whom he called a \u201cbeta male\u201d on Wednesday after an interview the host conducted with Vice President Harris. Via The Hill:\n\u201cBETA MALE Howard Stern made a fool of himself on his low rated radio show when he \u2018interviewed\u2019 Lyi\u2026",
+    "url": "https://crooksandliars.com/2024/10/day-kamala-harris-was-interviewed-king-all",
+    "urlToImage": "https://crooksandliars.com/files/embeds/2024/10/62625.jpg",
+    "publishedAt": "2024-10-13T23:19:55Z",
+    "content": "Donald Trump tore into Howard Stern, whom he called a beta male on Wednesday after an interview the host conducted with Vice President Harris. Via The Hill:BETA MALE Howard Stern made a fool of himse\u2026 [+924 chars]"
   },
   {
-    "source": { "id": "cbs-news", "name": "CBS News" },
-    "author": "CBS News",
-    "title": "Harris, Trump try to shore up support with key voting blocs",
-    "description": "Vice President Kamala Harris on Sunday was on the campaign trail in North Carolina, which is still recovering from the devastation of Hurricane Helene. Former President Trump meanwhile was in Arizona to announce a new proposal to expand the Border Patrol. Nik\u2026",
-    "url": "https://www.cbsnews.com/video/harris-trump-try-to-shore-up-support-with-key-voting-blocs/",
-    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/13/e9ac28db-41c1-4c7f-a9ac-5cd90d6bd1c8/thumbnail/1200x630/da65bec41599d455e299a80d13225563/0913-wn-killion.jpg?v=29b5ccc4d237d9b284ce95a42effd073",
-    "publishedAt": "2024-10-13T23:28:00Z",
-    "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
-  },
-  {
-    "source": { "id": "cbs-news", "name": "CBS News" },
-    "author": "CBS News",
-    "title": "Latest CBS News poll shows race effectively even in all of the battleground states",
-    "description": "The latest CBS News poll shows that Kamala Harris and Donald Trump are effectively even in all of the battleground states likely to determine the presidential election. CBS News Director of Elections and Surveys Anthony Salvanto joins \"Face the Nation with Ma\u2026",
-    "url": "https://www.cbsnews.com/video/latest-cbs-news-poll-shows-race-effectively-even-in-all-of-the-battleground-states/",
-    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/13/00f21df6-9296-4260-8a51-08839f12c628/thumbnail/1200x630/e3ba7310cf8cba2bb87ae0ca031f131c/1013-ftn-salvanto.jpg?v=29b5ccc4d237d9b284ce95a42effd073",
-    "publishedAt": "2024-10-13T17:19:48Z",
-    "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    "source": { "id": null, "name": "TVLine" },
+    "author": "Dave Nemetz",
+    "title": "SNL Video: Kamala Harris and Donald Trump Battle It Out on Family Feud",
+    "description": "Presidential contenders Kamala Harris and Donald Trump settled their differences in classic TV fashion on this week\u2019s Saturday Night Live \u2014 by going head-to-head on Family Feud! Saturday\u2019s cold open pitted Maya Rudolph\u2019s Harris and James Austin Johnson\u2019s Trum\u2026",
+    "url": "https://tvline.com/recaps/snl-video-family-feud-kamala-harris-donald-trump-video-1235349418/",
+    "urlToImage": "https://tvline.com/wp-content/uploads/2024/10/snl-family-feud-kamala-harris-donald-trump.png?w=650",
+    "publishedAt": "2024-10-13T03:55:29Z",
+    "content": "Presidential contenders Kamala Harris and Donald Trump settled their differences in classic TV fashion on this week\u2019s Saturday Night Live\u2014 by going head-to-head on Family Feud!\r\nSaturday\u2019s cold open \u2026 [+1389 chars]"
   },
   {
     "source": { "id": null, "name": "Yahoo Entertainment" },
@@ -70,44 +80,24 @@
     "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
   },
   {
-    "source": { "id": "rt", "name": "RT" },
-    "author": "RT",
-    "title": "Harris attacks Trump over health",
-    "description": "The White House has published a note from Vice President Kamala Harris\u2019s doctor, describing her physical and mental condition as \u201cexcellent\u201d Read Full Article at RT.com",
-    "url": "https://www.rt.com/news/605631-harris-trump-health-report/",
-    "urlToImage": "https://mf.b37mrtl.ru/files/2024.10/article/670b199f2030275694592509.jpg",
-    "publishedAt": "2024-10-13T00:51:58Z",
-    "content": "The White House has published a letter from Vice President Kamala Harris\u2019s doctor, describing her physical and mental condition as \u201cexcellent.\u201d Her campaign immediately used the report to question wh\u2026 [+2959 chars]"
-  },
-  {
-    "source": { "id": null, "name": "NPR" },
-    "author": "Ayesha Rascoe",
-    "title": "Politics chat: Trump, Harris target battleground states and undecided voters",
-    "description": "We take a look at what Vice President Kamala Harris and former president Donald Trump are doing to reach voters in battleground states and in demographics that have not been favoring them so far.",
-    "url": "https://www.npr.org/2024/10/13/nx-s1-5149310/politics-chat-trump-harris-target-battleground-states-and-undecided-voters",
-    "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-    "publishedAt": "2024-10-13T12:08:43Z",
-    "content": "We take a look at what Vice President Kamala Harris and former president Donald Trump are doing to reach voters in battleground states and in demographics that have not been favoring them so far."
+    "source": { "id": null, "name": "The New Yorker" },
+    "author": "Jelani Cobb",
+    "title": "What the Polls Really Say About Black Men\u2019s Support for Kamala Harris",
+    "description": "Jelani Cobb on Democratic worries about Kamala Harris\u2019s support among Black men, why Donald Trump thinks he\u2019s winning them over, and what the numbers really show.",
+    "url": "https://www.newyorker.com/magazine/2024/10/21/what-the-polls-really-say-about-black-mens-support-for-kamala-harris",
+    "urlToImage": "https://media.newyorker.com/photos/670946e0e9ed1cf962724471/16:9/w_1280,c_limit/Cobb-Comment-Johnson-Social.jpg",
+    "publishedAt": "2024-10-13T10:00:00Z",
+    "content": "In early October, just before Kamala Harris spoke at the Dort Financial Center, in Flint, Michigan, the N.B.A. Hall of Famer Magic Johnson took the stage to offer a few insights about the candidate a\u2026 [+6632 chars]"
   },
   {
     "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Elizabeth Weibel, Elizabeth Weibel",
-    "title": "Watch: Actress Jennifer Garner Makes Desperate Pitch to Pa. Voters -- 'Is There Anything Sexier than a Man Who Is Like, Men for Kamala?'",
-    "description": "Actress and Kamala Harris presidential campaign celebrity surrogate Jennifer Garner questioned if there was \"anything sexier than a man\" for Kamala during a Harris-Walz campaign rally in in the all-important swing state of Pennsylvania.\nThe post Watch: Actres\u2026",
-    "url": "https://www.breitbart.com/entertainment/2024/10/13/watch-actress-jennifer-garner-makes-desperate-pitch-to-pa-voters-is-there-anything-sexier-than-a-man-who-is-like-men-for-kamala/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/jennifergarner2-640x335.jpg",
-    "publishedAt": "2024-10-13T08:08:24Z",
-    "content": "Actress and Kamala Harris presidential campaign celebrity surrogate Jennifer Garner questioned if there was \u201canything sexier than a man\u201d for Kamala during a Harris-Walz campaign rally in in the all-i\u2026 [+1250 chars]"
-  },
-  {
-    "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Elizabeth Weibel, Elizabeth Weibel",
-    "title": "Kamala Harris Word Salad: 'What We See Is So Hard to See That We Lose Faith or a Vision of Those Things'",
-    "description": "Vice President Kamala Harris was roasted for a word salad during a church service in North Carolina where she attempted to speak about having faith \"in times of crisis.\"\nThe post Kamala Harris Word Salad: \u2018What We See Is So Hard to See That We Lose Faith or a\u2026",
-    "url": "https://www.breitbart.com/politics/2024/10/13/kamala-harris-word-salad-what-see-hard-see-that-lose-faith-vision-those-things/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/GettyImages-2178262066-640x335.jpg",
-    "publishedAt": "2024-10-13T22:26:47Z",
-    "content": "Vice President Kamala Harris was roasted for a word salad during a church service in North Carolina where she attempted to speak about having faith \u201cin times of crisis.\u201d\r\nWhile speaking at the Koinon\u2026 [+2630 chars]"
+    "author": "Joshua Klein, Joshua Klein",
+    "title": "Exclusive: Juanita Broaddrick Slams Kamala Harris for Enlisting \u2018Prolific Sexual Abuser\u2019 Bill Clinton to Boost Campaign",
+    "description": "The Harris campaign\u2019s decision to bring \u201cdegenerate\u201d former President Bill Clinton back to the political stage is \u201cabsolutely unbelievable,\u201d according to Clinton accuser Juanita Broaddrick, who called the 42nd president \u201cthe most prolific sexual abuser in his\u2026",
+    "url": "https://www.breitbart.com/politics/2024/10/13/exclusive-juanita-broaddrick-slams-kamala-harris-for-enlisting-prolific-sexual-abuser-bill-clinton-to-boost-campaign/",
+    "urlToImage": "https://media.breitbart.com/media/2024/10/GettyImages-1246747284-640x335.jpg",
+    "publishedAt": "2024-10-13T18:13:36Z",
+    "content": "The Harris campaigns decision to bring degenerate former President Bill Clinton back to the political stage is absolutely unbelievable, according to Clinton accuser Juanita Broaddrick, who called the\u2026 [+5482 chars]"
   },
   {
     "source": { "id": "breitbart-news", "name": "Breitbart News" },
@@ -131,16 +121,6 @@
   },
   {
     "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Joshua Klein, Joshua Klein",
-    "title": "Exclusive: Juanita Broaddrick Slams Kamala Harris for Enlisting \u2018Prolific Sexual Abuser\u2019 Bill Clinton to Boost Campaign",
-    "description": "The Harris campaign\u2019s decision to bring \u201cdegenerate\u201d former President Bill Clinton back to the political stage is \u201cabsolutely unbelievable,\u201d according to Clinton accuser Juanita Broaddrick, who called the 42nd president \u201cthe most prolific sexual abuser in his\u2026",
-    "url": "https://www.breitbart.com/politics/2024/10/13/exclusive-juanita-broaddrick-slams-kamala-harris-for-enlisting-prolific-sexual-abuser-bill-clinton-to-boost-campaign/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/GettyImages-1246747284-640x335.jpg",
-    "publishedAt": "2024-10-13T18:13:36Z",
-    "content": "The Harris campaigns decision to bring degenerate former President Bill Clinton back to the political stage is absolutely unbelievable, according to Clinton accuser Juanita Broaddrick, who called the\u2026 [+5482 chars]"
-  },
-  {
-    "source": { "id": "breitbart-news", "name": "Breitbart News" },
     "author": "Olivia Rondeau, Olivia Rondeau",
     "title": "'We're Not Voting for Kamala': Black Male Voters Slam Obama's Shame Tactics for Not Supporting Harris",
     "description": "Black conservative men have responded to former President Barack Obama's claims that they do not support Vice President Kamala Harris's campaign due to sexism, slamming him for not accurately representing the black community and for trying to shame them into \u2026",
@@ -161,33 +141,13 @@
   },
   {
     "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Olivia Rondeau, Olivia Rondeau",
-    "title": "Report: Tensions Rise Between Biden Staff and Harris Campaign",
-    "description": "Tensions are rising between President Joe Biden's administration and Vice President Kamala Harris's campaign, with Biden's senior staffers being labeled as too \"in their feelings\" to fully support Harris after he was pushed out of the race, inside sources rev\u2026",
-    "url": "https://www.breitbart.com/2024-election/2024/10/13/report-tensions-rise-between-biden-staff-and-harris-campaign/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/GettyImages-1252479946-640x335.jpg",
-    "publishedAt": "2024-10-13T19:53:51Z",
-    "content": "Tensions are rising between President Joe Biden\u2019s administration and Vice President Kamala Harris\u2019s campaign, with Biden\u2019s senior staffers being labeled as too \u201cin their feelings\u201d to fully support Ha\u2026 [+3031 chars]"
-  },
-  {
-    "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Olivia Rondeau, Olivia Rondeau",
-    "title": "Tensions Rise Between Biden Staff and Harris Campaign, Sources Reveal",
-    "description": "Tensions are rising between President Joe Biden's administration and Vice President Kamala Harris's campaign, with Biden's senior staffers being labeled as too \"in their feelings\" to fully support Harris after he was pushed out of the race, inside sources rev\u2026",
-    "url": "https://www.breitbart.com/2024-election/2024/10/13/tensions-rise-between-biden-staff-and-harris-campaign-sources-reveal/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/GettyImages-1252479946-640x335.jpg",
-    "publishedAt": "2024-10-13T19:53:51Z",
-    "content": "Tensions are rising between President Joe Biden\u2019s administration and Vice President Kamala Harris\u2019s campaign, with Biden\u2019s senior staffers being labeled as too \u201cin their feelings\u201d to fully support Ha\u2026 [+3034 chars]"
-  },
-  {
-    "source": { "id": "breitbart-news", "name": "Breitbart News" },
-    "author": "Pam Key, Pam Key",
-    "title": "UAW Member: Harris an 'Existential Threat' to the Auto Industry",
-    "description": "Auto Workers for Trump founder Brian Pannebecker said\u00a0Saturday on Newsmax TV's \"America Right Now\"\u00a0that the U.S. auto industry will face an \"existential threat\" if Vice President Kamala Harris is elected president.\nThe post UAW Member: Harris an \u2018Existential \u2026",
-    "url": "https://www.breitbart.com/clips/2024/10/13/uaw-member-harris-an-existential-threat-to-the-auto-industry/",
-    "urlToImage": "https://media.breitbart.com/media/2024/10/Kamala-Harris-closeup-fright-ap-640x335.jpg",
-    "publishedAt": "2024-10-13T16:29:08Z",
-    "content": "Auto Workers for Trump founder Brian Pannebecker said\u00a0Saturday on Newsmax TV\u2019s \u201cAmerica Right Now\u201d\u00a0that the U.S. auto industry will face an \u201cexistential threat\u201d if Vice President Kamala Harris is ele\u2026 [+1125 chars]"
+    "author": "Elizabeth Weibel, Elizabeth Weibel",
+    "title": "Kamala Harris Word Salad: 'What We See Is So Hard to See That We Lose Faith or a Vision of Those Things'",
+    "description": "Vice President Kamala Harris was roasted for a word salad during a church service in North Carolina where she attempted to speak about having faith \"in times of crisis.\"\nThe post Kamala Harris Word Salad: \u2018What We See Is So Hard to See That We Lose Faith or a\u2026",
+    "url": "https://www.breitbart.com/politics/2024/10/13/kamala-harris-word-salad-what-see-hard-see-that-lose-faith-vision-those-things/",
+    "urlToImage": "https://media.breitbart.com/media/2024/10/GettyImages-2178262066-640x335.jpg",
+    "publishedAt": "2024-10-13T22:26:47Z",
+    "content": "Vice President Kamala Harris was roasted for a word salad during a church service in North Carolina where she attempted to speak about having faith \u201cin times of crisis.\u201d\r\nWhile speaking at the Koinon\u2026 [+2630 chars]"
   },
   {
     "source": { "id": null, "name": "Raw Story" },
@@ -200,56 +160,6 @@
     "content": "A supporter of former President Donald Trump cited his Christian faith while wearing a T-shirt that discouraged voting for Vice President Kamala Harris, calling her a \"hoe\" (sic).\r\nAhead of a Sunday \u2026 [+1248 chars]"
   },
   {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "Aaron Sanderford, Nebraska Examiner",
-    "title": "Why is Iowa Sen. Joni Ernst stumping for Trump in Nebraska?",
-    "description": "OMAHA \u2014 Iowa U.S. Sen. Joni Ernst crossed the Missouri River on Saturday to encourage more than 100 Republican volunteers in Nebraska\u2019s 2nd Congressional District to spend the next few weeks knocking on voters\u2019 doors for former President Donald Trump.\n\nErnst,\u2026",
-    "url": "https://www.rawstory.com/ernst-nebraska/",
-    "urlToImage": "https://www.rawstory.com/media-library/u-s-sen-joni-ernst-r-iowa-stumps-for-former-president-donald-trump-in-omaha-on-saturday-aaron-sanderford-nebraska-examiner.jpg?id=53809975&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
-    "publishedAt": "2024-10-13T09:47:24Z",
-    "content": "OMAHA Iowa U.S. Sen. Joni Ernst crossed the Missouri River on Saturday to encourage more than 100 Republican volunteers in Nebraskas 2nd Congressional District to spend the next few weeks knocking on\u2026 [+5145 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "Ashley Murray, Iowa Capital Dispatch",
-    "title": "Vance in Pennsylvania says there was a \u2018peaceful transfer of power\u2019 in January 2021",
-    "description": "JOHNSTOWN, Pa. \u2014 Republican vice presidential candidate J.D. Vance campaigned Saturday in the key battleground of Pennsylvania, where early mail-in voting is already underway as just 25 days remain in the heated 2024 race that will be decided by a handful of \u2026",
-    "url": "https://www.rawstory.com/jd-vance-on-jan-6/",
-    "urlToImage": "https://www.rawstory.com/media-library/a-man-clashed-with-captiol-police-on-jan-6-2020-shutterstock.jpg?id=52534930&width=1200&height=600&coordinates=0%2C464%2C0%2C464",
-    "publishedAt": "2024-10-13T09:43:09Z",
-    "content": "JOHNSTOWN, Pa. Republican vice presidential candidate J.D. Vance campaigned Saturday in the key battleground of Pennsylvania, where early mail-in voting is already underway as just 25 days remain in \u2026 [+5754 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "David Edwards",
-    "title": "Maria Bartiromo confronts Trump on tariffs: 'It's only going to mean higher prices'",
-    "description": "Fox News host Maria Bartiromo confronted former President Donald Trump on his plan to put a 200% tariff on foreign auto companies.\n\n\"The Wall Street Journal said that your plans will increase the debt and deficits more than Kamala Harris',\" Bartiromo explaine\u2026",
-    "url": "https://www.rawstory.com/trump-bartiromo-tariffs/",
-    "urlToImage": "https://www.rawstory.com/media-library/donald-trump-and-maria-bartiromo.jpg?id=53810190&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-    "publishedAt": "2024-10-13T14:51:38Z",
-    "content": "Fox News host Maria Bartiromo confronted former President Donald Trump on his plan to put a 200% tariff on foreign auto companies.\r\n\"The Wall Street Journal said that your plans will increase the deb\u2026 [+957 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "David Edwards",
-    "title": "'Just flat wrong': ABC host busts J.D. Vance over claim FEMA not helping red states",
-    "description": "ABC News host Martha Raddatz grilled Republican vice presidential nominee J.D. Vance after he struggled to defend former President Donald Trump's claim that FEMA was not helping red states recover from recent hurricanes.\"During Hurricane Helene, as we heard, \u2026",
-    "url": "https://www.rawstory.com/jd-vance-fema/",
-    "urlToImage": "https://www.rawstory.com/media-library/j-d-vance-and-martha-raddatz.jpg?id=53810146&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-    "publishedAt": "2024-10-13T13:47:19Z",
-    "content": "ABC News host Martha Raddatz grilled Republican vice presidential nominee J.D. Vance after he struggled to defend former President Donald Trump's claim that FEMA was not helping red states recover fr\u2026 [+1320 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Naturalnews.com" },
-    "author": "News Editors",
-    "title": "Kamala unwinding",
-    "description": "Don\u2019t kid yourself: Kamala Harris does not want to be President of the United States. She doesn\u2019t even want the ceremonial stuff, the incessant shuffling from one photo op to the next, the tedious Easter egg rolls, the prayer meetings, the turkey pardonings, \u2026",
-    "url": "https://www.naturalnews.com/2024-10-13-kamala-unwinding.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/10/Kamala-Harris-Unburdened-by-What-Has-Been.jpg",
-    "publishedAt": "2024-10-13T06:00:00Z",
-    "content": "Dont kid yourself: Kamala Harris does not want to be President of the United States. She doesnt even want the ceremonial stuff, the incessant shuffling from one photo op to the next, the tedious East\u2026 [+5476 chars]"
-  },
-  {
     "source": { "id": null, "name": "Naturalnews.com" },
     "author": "Cassie B.",
     "title": "Kamala Harris openly bragged about using the DoJ to fight against speech the government doesn\u00e2\u0080\u0099t agree with",
@@ -258,66 +168,6 @@
     "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/10/Kamala-Harris-DNC.jpg",
     "publishedAt": "2024-10-13T06:00:00Z",
     "content": "Social media censorship has been pretty rampant under the Biden administration, but it could get a lot worse if Kamala Harris takes office. In fact, she has been bragging about using the Department o\u2026 [+3418 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Naturalnews.com" },
-    "author": "News Editors",
-    "title": "Bill Kristol: My fellow White Americans are \u2018the enemy\u2019",
-    "description": "Neoconservative commentator Bill Kristol labeled white Americans \u201cthe enemy\u201d in a column on Friday because the majority support Donald Trump for president. (Article by Chris Menahan republished from InformationLiberation.com) In a piece for The Bulwark, Krist\u2026",
-    "url": "https://www.naturalnews.com/2024-10-13-bill-kristol-fellow-white-americans-the-enemy.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/10/Concept-Politics-Background-Battle-Black-Board-Business.jpg",
-    "publishedAt": "2024-10-13T06:00:00Z",
-    "content": "Neoconservative commentator Bill Kristol labeled white Americans \"the enemy\" in a column on Friday because the majority support Donald Trump for president.\r\n(Article by Chris Menahan republished from\u2026 [+2552 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Naturalnews.com" },
-    "author": "Ava Grace",
-    "title": "Elon Musk campaigning for Donald Trump in crucial swing state of Pennsylvania",
-    "description": "Billionaire tech giant Elon Musk has announced his intention to campaign for former President Donald Trump in the crucial swing state of Pennsylvania. This comes after the Big Tech entrepreneur made a high-profile appearance with the former president\u00a0at a cam\u2026",
-    "url": "https://www.naturalnews.com/2024-10-13-musk-campaign-for-trump-swing-state-pennsylvania.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/10/Elon-Musk-Time-Magazine.jpg",
-    "publishedAt": "2024-10-13T06:00:00Z",
-    "content": "Billionaire tech giant Elon Musk has announced his intention to campaign for former President Donald Trump in the crucial swing state of Pennsylvania.\r\nThis comes after the Big Tech entrepreneur made\u2026 [+3608 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "David McAfee",
-    "title": "Watch: Trump speaks at Arizona rally just minutes after Harris' speech ends",
-    "description": "Donald Trump is set to take the stage in Prescott Valley, Arizona, just minutes after the end of a speech by Vice President Kamala Harris.\n\nHarris just ended her talk in Greenville, North Carolina, where she taunted the former president after his failure to r\u2026",
-    "url": "https://www.rawstory.com/trump-arizona-rally-after-harris/",
-    "urlToImage": "https://www.rawstory.com/media-library/donald-trump-afp.jpg?id=52214431&width=1200&height=600&coordinates=0%2C58%2C0%2C58",
-    "publishedAt": "2024-10-13T21:12:07Z",
-    "content": "Donald Trump is set to take the stage in Prescott Valley, Arizona, just minutes after the end of a speech by Vice President Kamala Harris.\r\nHarris just ended her talk in Greenville, North Carolina, w\u2026 [+261 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "Brad Reed",
-    "title": "'Won't vote for him again': Arizona Republican women torch Trump in interviews with NYT",
-    "description": "Arizona women who have for decades been loyal Republican voters are telling the New York Times that they cannot vote for former President Donald Trump this year.In a video posted by the Times, the Republican women said that the former president boasting about\u2026",
-    "url": "https://www.rawstory.com/arizona-republicans-for-harris-interviews/",
-    "urlToImage": "https://www.rawstory.com/media-library/the-purge-team-trump-s-destruction-of-evidence-appears-to-be-breaking-presidential-records-laws.jpg?id=24501693&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-    "publishedAt": "2024-10-13T12:39:47Z",
-    "content": "Arizona women who have for decades been loyal Republican voters are telling the New York Times that they cannot vote for former President Donald Trump this year.\r\nIn a video posted by the Times, the \u2026 [+1821 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Raw Story" },
-    "author": "David Edwards",
-    "title": "RSBN host laughs as child rallygoer says he 'totally didn't bleach' hair to be like Trump",
-    "description": "A 10-year-old boy attending a rally in Arizona insisted that he \"totally didn't bleach\" his hair with blonde color because he wanted to be like former President Donald Trump.Before a rally in Prescott Valley on Sunday, RSBN host Mike Fortin asked the 10-year-\u2026",
-    "url": "https://www.rawstory.com/trump-bleach-hair-child/",
-    "urlToImage": "https://www.rawstory.com/media-library/10-year-old-boy-named-broderick-speaks-to-rsbn.jpg?id=53810317&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-    "publishedAt": "2024-10-13T19:37:45Z",
-    "content": "A 10-year-old boy attending a rally in Arizona insisted that he \"totally didn't bleach\" his hair with blonde color because he wanted to be like former President Donald Trump.\r\nBefore a rally in Presc\u2026 [+732 chars]"
-  },
-  {
-    "source": { "id": null, "name": "International Business Times" },
-    "author": "Michael Mathes, with Brendan Smialowski in Greenville, North Carolina",
-    "title": "Harris, Trump Seek Advantage In Knife-edge Election Battle",
-    "description": "Kamala Harris and rival Donald Trump are campaigning in battleground states Sunday seeking 11th-hour advantages in a deadlocked White House race, as new polling shows the vice president underperforming among some traditional Democratic voter demographics.",
-    "url": "https://www.ibtimes.com/harris-trump-seek-advantage-knife-edge-election-battle-3746574",
-    "urlToImage": "https://d.ibtimes.com/en/full/4553886/former-us-president-bill-clinton-speaks-morning-service-mount-zion-baptist-church-albany.jpg",
-    "publishedAt": "2024-10-13T21:36:14Z",
-    "content": "Kamala Harris and rival Donald Trump are campaigning in battleground states Sunday seeking 11th-hour advantages in a deadlocked White House race, as new polling shows the vice president underperformi\u2026 [+4076 chars]"
   },
   {
     "source": { "id": "msnbc", "name": "MSNBC" },
@@ -340,36 +190,6 @@
     "content": "[Removed]"
   },
   {
-    "source": { "id": null, "name": "[Removed]" },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "2024-10-13T18:28:50Z",
-    "content": "[Removed]"
-  },
-  {
-    "source": { "id": null, "name": "TheWrap" },
-    "author": "Stephanie Kaloi",
-    "title": "Maya Rudolph Getting a \u2018Big Gob\u2019 of Ice Cream Shoved in Her Face on \u2018SNL\u2019 Was Improvised, Dana Carvey Says | Video",
-    "description": "The decision was made in \u201ctwo seconds\u201d as he played Joe Biden next to his fellow late-night alum\u2019s Kamala Harris\nThe post Maya Rudolph Getting a \u2018Big Gob\u2019 of Ice Cream Shoved in Her Face on \u2018SNL\u2019 Was Improvised, Dana Carvey Says | Video appeared first on TheW\u2026",
-    "url": "https://www.thewrap.com/maya-rudolph-ice-cream-face-snl-dana-carvey-joe-biden/",
-    "urlToImage": "https://www.thewrap.com/wp-content/uploads/2024/10/dana-carvey-david-spade.jpg",
-    "publishedAt": "2024-10-13T01:03:06Z",
-    "content": "Dana Carvey is always one to improvise, and as he told David Spade on their Superfly podcast, last weeks Saturday Night Live cold open just happened to provide the perfect opportunity for unplanned c\u2026 [+1731 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Japan Today" },
-    "author": null,
-    "title": "From the pulpit, Harris calls out Trump for hurricane misinformation",
-    "description": "Kamala Harris used an appearance Sunday before a largely Black church audience in battleground North Carolina to call out Donald Trump for spreading misinformation about the government's hurricane response. President Joe Biden visited Florida for the second t\u2026",
-    "url": "https://japantoday.com/category/world/biden-will-survey-hurricane-milton-damage-in-florida-harris-attends-church-in-north-carolina",
-    "urlToImage": null,
-    "publishedAt": "2024-10-13T21:21:04Z",
-    "content": "Kamala Harris used an appearance Sunday before a largely Black church audience in battleground North Carolina to call out Donald Trump for spreading misinformation about the government's hurricane re\u2026 [+6675 chars]"
-  },
-  {
     "source": { "id": null, "name": "The Federalist" },
     "author": "Beth Brelje",
     "title": "Kamala Harris\u2019 Career Of Releasing Murderers And Drug Dealers Proves She Won\u2019t Be \u2018Tough On Crime\u2019",
@@ -378,106 +198,6 @@
     "urlToImage": "https://thefederalist.com/wp-content/uploads/2024/10/Screenshot-2024-10-12-231237.png",
     "publishedAt": "2024-10-13T15:06:11Z",
     "content": "Kamala Devi Harris often points to her time as a prosecutor to prove she is a tough-on-crime champion of public safety. And since she is so proud of her record, if elected president, she will try to \u2026 [+7322 chars]"
-  },
-  {
-    "source": { "id": null, "name": "CNA" },
-    "author": null,
-    "title": "With medical report, Harris plays health card against Trump",
-    "description": "WASHINGTON: Democratic White House candidate Kamala Harris is in \"excellent health\" and fit for the presidency, according to a medical report published by the White House on Saturday (Oct 13), as she challenged rival Donald Trump to publish his own health rec\u2026",
-    "url": "https://www.channelnewsasia.com/world/medical-report-harris-plays-health-card-against-trump-4675241",
-    "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F2O3DMkL--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/election_2024_abortion_young_female_voters_93311.jpg?itok=y4kEmxKP",
-    "publishedAt": "2024-10-13T00:36:44Z",
-    "content": "WASHINGTON: Democratic White House candidate Kamala Harris is in \"excellent health\" and fit for the presidency, according to a medical report published by the White House on Saturday (Oct 13), as she\u2026 [+1872 chars]"
-  },
-  {
-    "source": { "id": null, "name": "CNA" },
-    "author": null,
-    "title": "Harris, Trump seek advantage in knife-edge election battle",
-    "description": "WASHINGTON: Kamala Harris and rival Donald Trump are campaigning in critical battleground states Sunday (Oct 13) seeking 11th-hour advantages in a deadlocked White House race, as new polling shows the vice president underperforming among some traditional Demo\u2026",
-    "url": "https://www.channelnewsasia.com/world/harris-trump-seek-advantage-knife-edge-election-battle-4675911",
-    "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--njWZHxEK--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/election_2024_harris_84428.jpg?itok=Xw9rbJSu",
-    "publishedAt": "2024-10-13T17:59:49Z",
-    "content": "Polling shows Harris and Trump neck and neck including in the seven swing states that are likely to determine the outcome of the election.An NBC News national poll released Sunday shows a 48-48 perce\u2026 [+531 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Politicalwire.com" },
-    "author": "Taegan Goddard",
-    "title": "Harris Maintains Narrow National Lead",
-    "description": "A new ABC News/Ipsos poll finds Kamala Harris leading Donald Trump nationally among likely voters, 50% to 48%.",
-    "url": "https://politicalwire.com/2024/10/13/harris-maintains-narrow-national-lead-2/",
-    "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-    "publishedAt": "2024-10-13T12:05:34Z",
-    "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d\r\n Chuck Todd, host of \u201cMeet the Press\u201d\r\n\u201cConcise. Relevant. To th\u2026 [+594 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Politicalwire.com" },
-    "author": "Taegan Goddard",
-    "title": "New Poll Shows Incredibly Tight Race",
-    "description": "A new CBS News poll shows Kamala Harris narrowly ahead of Donald Trump nationally among likely voters, 51% to 48%.In the battleground states, Harris leads by just one percentage point, 50% to 49%.",
-    "url": "https://politicalwire.com/2024/10/13/new-poll-shows-incredibly-tight-race/",
-    "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-    "publishedAt": "2024-10-13T13:40:33Z",
-    "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d\r\n Chuck Todd, host of \u201cMeet the Press\u201d\r\n\u201cConcise. Relevant. To th\u2026 [+594 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Politicalwire.com" },
-    "author": "Taegan Goddard",
-    "title": "Tensions Rise Between Harris and Biden Teams",
-    "description": "\u201cThe relationship between Kamala Harris' team and Joe Biden's White House has been increasingly fraught in the final weeks before Election Day,\u201d Axios reports.\u201cBiden's team wants Harris to win the election, but many senior Biden aides remain wounded by the pr\u2026",
-    "url": "https://politicalwire.com/2024/10/13/tensions-rise-between-harris-and-biden-teams/",
-    "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-    "publishedAt": "2024-10-13T12:46:26Z",
-    "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d\r\n Chuck Todd, host of \u201cMeet the Press\u201d\r\n\u201cConcise. Relevant. To th\u2026 [+594 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Politicalwire.com" },
-    "author": "Taegan Goddard",
-    "title": "Harris Struggles to Win Over Latinos",
-    "description": "Kamala Harris\u2019s support among Hispanic voters is in dangerously low territory for Democrats, according to a New York Times/Siena College poll, while her rival, Donald Trump, has maintained his strength with the fast-growing group poised to play a key role in \u2026",
-    "url": "https://politicalwire.com/2024/10/13/harris-struggles-to-win-over-latinos/",
-    "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-    "publishedAt": "2024-10-13T12:07:51Z",
-    "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d\r\n Chuck Todd, host of \u201cMeet the Press\u201d\r\n\u201cConcise. Relevant. To th\u2026 [+594 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Politicalwire.com" },
-    "author": "Taegan Goddard",
-    "title": "Presidential Race a Dead Heat",
-    "description": "Donald Trump and Kamala Harris are deadlocked in the latest national NBC News poll, 48% to 48%, with Trump bolstered by Republicans coming back home to support him after last month\u2019s rough debate and a subsequent polling deficit, as well as by a favorable vot\u2026",
-    "url": "https://politicalwire.com/2024/10/13/presidential-race-a-dead-heat/",
-    "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-    "publishedAt": "2024-10-13T13:36:02Z",
-    "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d\r\n Chuck Todd, host of \u201cMeet the Press\u201d\r\n\u201cConcise. Relevant. To th\u2026 [+594 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Mediaite" },
-    "author": "Joe DePaolo",
-    "title": "\u2018This is a Big One!\u2019 NBC\u2019s Welker and Kornacki Unveil Shocking New Poll Showing Trump Wiping Out 5 Point Harris Lead to Tie the Race",
-    "description": "NBC's Kristen Welker and Steve Kornacki unveiled a shocking new poll Sunday which shows former President Donald Trump and Vice President Kamala Harris deadlocked.\nThe post \u2018This is a Big One!\u2019 NBC\u2019s Welker and Kornacki Unveil Shocking New Poll Showing Trump W\u2026",
-    "url": "https://www.mediaite.com/news/this-is-a-big-one-nbcs-welker-and-kornacki-unveil-shocking-new-poll-showing-trump-wiping-out-5-point-harris-lead-to-tie-the-race/",
-    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/Screen-Shot-2024-10-13-at-9.15.11-AM-scaled-e1728825366135.jpg",
-    "publishedAt": "2024-10-13T13:34:17Z",
-    "content": "NBC\u2019s Kristen Welker and Steve Kornacki unveiled a shocking new poll Sunday which shows former President Donald Trump and Vice President Kamala Harris deadlocked. \r\nIn the opening moments of Sunday\u2019s\u2026 [+1405 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Mediaite" },
-    "author": "Kipp Jones",
-    "title": "WATCH: Dem Governor Flounders After ABC\u2019s Raddatz Presses Him on How Harris Can Stand Out from Biden",
-    "description": "Democratic Kentucky Governor Andy Beshear struggled to explain to ABC\u2019s Martha Raddatz Sunday how Vice President Kamala Harris can show voters she is different from President Joe Biden on the issues. Harris struggled with that question herself last week durin\u2026",
-    "url": "https://www.mediaite.com/tv/watch-dem-governor-flounders-after-abcs-raddatz-presses-him-on-how-harris-can-stand-out-from-biden/",
-    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/Screenshot-2024-10-13-at-10.58.42\u202fAM.png",
-    "publishedAt": "2024-10-13T16:18:22Z",
-    "content": "Democratic Kentucky Governor Andy Beshear struggled to explain to ABC\u2019s Martha Raddatz Sunday how Vice President Kamala Harris can show voters she is different from President Joe Biden on the issues.\u2026 [+2417 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Mediaite" },
-    "author": "Kipp Jones",
-    "title": "Explosive New Report Reveals \u2018Increasingly Fraught\u2019 Relations Between Biden and Harris Teams as \u2018Tension\u2019 Mounts Ahead of Election",
-    "description": "Allies close to President Joe Biden and those running Vice President Kamala Harris\u2019s campaign reported \u201ctensions\u201d between the two camps in a report published Sunday morning by Axios. Alex Thompson reported he spoke to 10 people \u201cfamiliar with the situation\u201d w\u2026",
-    "url": "https://www.mediaite.com/politics/explosive-new-report-reveals-increasingly-fraught-relations-between-biden-and-harris-teams-as-tension-mounts-ahead-of-election/",
-    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2023/11/AP23268742933071-crop.jpg",
-    "publishedAt": "2024-10-13T16:54:42Z",
-    "content": "AP Photo/Susan Walsh\r\nAllies close to President Joe Biden and those running Vice President Kamala Harris\u2019s campaign reported \u201ctensions\u201d between the two camps in a report published Sunday morning by A\u2026 [+2342 chars]"
   },
   {
     "source": { "id": null, "name": "Memeorandum.com" },
@@ -490,96 +210,6 @@
     "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
   },
   {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "'Dead heat': Trump pulls even with Harris in NBC News poll (Mark Murray/NBC News)",
-    "description": "Mark Murray / NBC News:\n\u2018Dead heat\u2019: Trump pulls even with Harris in NBC News poll\u00a0 \u2014\u00a0 A close election has never looked more tightly divided, with Harris' popularity declining from its previous high and abortion atop voters' issue list.\u00a0 \u2014\u00a0 Former President \u2026",
-    "url": "https://www.memeorandum.com/241013/p10",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241011-election-poll-3x2-4c78ec.jpg",
-    "publishedAt": "2024-10-13T13:35:00Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "CBS News Trump-Harris poll shows one election, two worlds: How information, beliefs shape tight campaign (CBS News)",
-    "description": "CBS News:\nCBS News Trump-Harris poll shows one election, two worlds: How information, beliefs shape tight campaign\u00a0 \u2014\u00a0 The 2024 presidential contest between Kamala Harris and Donald Trump is more than just two ideologies competing over what should happen.\u00a0 It\u2026",
-    "url": "https://www.memeorandum.com/241013/p14",
-    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/13/fcd261f4-79aa-4f62-b43f-65608208542a/thumbnail/1200x630g2/32c27f8bbacf7603cf409d83ad943c62/ap24255093930661-1.jpg?v=29b5ccc4d237d9b284ce95a42effd073",
-    "publishedAt": "2024-10-13T13:50:00Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "Vance points out the 'biggest difference' between leadership of Trump, Harris during campaign stop (Jasmine Baehr/Fox News)",
-    "description": "Jasmine Baehr / Fox News:\nVance points out the \u2018biggest difference\u2019 between leadership of Trump, Harris during campaign stop\u00a0 \u2014\u00a0 Veteran homelessness increased 7.4% between 2022 and 2023\u00a0 \u2014\u00a0 Sen. JD Vance, R-Ohio, set the record straight on how former Preside\u2026",
-    "url": "https://www.memeorandum.com/241012/p55",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/trump-vance-harris.jpg",
-    "publishedAt": "2024-10-13T02:40:03Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "Harris weighing where to put more distance between her and Biden (NBC News)",
-    "description": "NBC News:\nHarris weighing where to put more distance between her and Biden\u00a0 \u2014\u00a0 Trump has been criticizing her for an answer to a question in which she initially declined to say anything she would have done different the past four years.\u00a0 \u2014\u00a0 WASHINGTON \u2014 Vice \u2026",
-    "url": "https://www.memeorandum.com/241012/p52",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241011-Joe-Biden-Kamala-Harris-aa-256p-9d66da.jpg",
-    "publishedAt": "2024-10-13T01:50:01Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "Why conservative lawyers 'cannot defensibly assist' Trump in efforts to subvert election: legal expert (Maya Boddie/Alternet.org)",
-    "description": "Maya Boddie / Alternet.org:\nWhy conservative lawyers \u2018cannot defensibly assist\u2019 Trump in efforts to subvert election: legal expert\u00a0 \u2014\u00a0 With less than 30 days until the presidential election, Donald Trump is expected to take legal action in the case he's defea\u2026",
-    "url": "https://www.memeorandum.com/241013/p42",
-    "urlToImage": "https://www.alternet.org/media-library/image.webp?id=50789312&width=1200&height=600&coordinates=0%2C66%2C0%2C67",
-    "publishedAt": "2024-10-13T18:45:05Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "Economic discontent, issue divisions add up to tight presidential contest: POLL (Gary Langer/ABC News)",
-    "description": "Gary Langer / ABC News:\nEconomic discontent, issue divisions add up to tight presidential contest: POLL\u00a0 \u2014\u00a0 Harris has 50% support to Trump's 48% among likely voters, the poll finds.\u00a0 \u2014\u00a0 Republican presidential nominee former President Donald Trump, left, and\u2026",
-    "url": "https://www.memeorandum.com/241013/p5",
-    "urlToImage": "https://i.abcnewsfe.com/a/6879a866-c18f-40c4-b662-974792ed593e/trump-kamala-1-ap-er-241011_1728661751196_hpMain_16x9.jpg?w=1600",
-    "publishedAt": "2024-10-13T12:40:01Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "Liz Cheney issues dire warning about 'fundamentally cruel' Trump, agrees he's a 'fascist' (Alexandra Marquez/NBC News)",
-    "description": "Alexandra Marquez / NBC News:\nLiz Cheney issues dire warning about \u2018fundamentally cruel\u2019 Trump, agrees he's a \u2018fascist\u2019\u00a0 \u2014\u00a0 The former GOP representative from Wyoming said Vice President Kamala Harris, if elected, \u201cwill lead with a sincere heart\u201d as \u201csomeone \u2026",
-    "url": "https://www.memeorandum.com/241013/p17",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241013-liz-cheney-mb-1527-c8e24c.jpg",
-    "publishedAt": "2024-10-13T15:20:01Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "About those New York Times headlines (Margaret Sullivan/American Crisis)",
-    "description": "Margaret Sullivan / American Crisis:\nAbout those New York Times headlines\u00a0 \u2014\u00a0 Twitter, which is what I prefer to call Elon Musk's disaster, is still interesting and useful at times, despite its decay.\u00a0 \u2014\u00a0 And the other day, there was a dustup there over two N\u2026",
-    "url": "https://www.memeorandum.com/241013/p26",
-    "urlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F604c3ac1-d91c-4b89-9258-5cf0ef328f96_7500x5000.jpeg",
-    "publishedAt": "2024-10-13T16:35:02Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Memeorandum.com" },
-    "author": null,
-    "title": "Action News anchor Brian Taff's full interview with VP nominee Gov. Tim Walz (Brian Taff/6abc)",
-    "description": "Brian Taff / 6abc:\nAction News anchor Brian Taff's full interview with VP nominee Gov. Tim Walz\u00a0 \u2014\u00a0 As he makes the case for himself and Kamala Harris, VP nominee Gov. Tim Walz sat down with Action News anchor Brian Taff for a candid conversation about the st\u2026",
-    "url": "https://www.memeorandum.com/241013/p45",
-    "urlToImage": "https://cdn.abcotvs.com/dip/images/15417666_101124-wpvi-brian-taff-interview-tim-walz-full-video-vid.jpg?w=1600",
-    "publishedAt": "2024-10-13T20:05:01Z",
-    "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]"
-  },
-  {
     "source": { "id": null, "name": "Boston Herald" },
     "author": "Douglas Schoen",
     "title": "Schoen: What we learned from Kamala Harris\u2019 media blitz",
@@ -588,16 +218,6 @@
     "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/10/AP24284827391721.jpg?w=1024&h=682",
     "publishedAt": "2024-10-13T04:39:22Z",
     "content": "In recent weeks, Vice President Kamala Harris has clearly sought to address one of \u2013 if not the \u2013 biggest criticisms she\u2019s faced since becoming her party\u2019s nominee: her outright avoidance of the medi\u2026 [+6193 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Boston Herald" },
-    "author": "Matthew Medsger",
-    "title": "\u2018A dead heat\u2019: Trump gains in news round of polls, \u2018Harris honeymoon\u2019 over",
-    "description": "\"As summer has turned to fall, any signs of momentum for Kamala Harris have stopped,\" Democratic pollster Jeff Horwitt said.",
-    "url": "https://www.bostonherald.com/2024/10/13/a-dead-heat-trump-gains-in-news-round-of-polls-harris-honeymoon-over/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/10/AP24287844457147.jpg?w=1024&h=683",
-    "publishedAt": "2024-10-13T23:46:27Z",
-    "content": "The \u201cHarris honeymoon\u201d has ended and the presidential race is locked in a tie with just over three weeks to go before the polls close on the 2024 election, according to polling from three major news \u2026 [+5030 chars]"
   },
   {
     "source": { "id": "newsweek", "name": "Newsweek" },
@@ -670,56 +290,6 @@
     "content": "Copyright \u00a9 2024 WorldNetDaily"
   },
   {
-    "source": { "id": null, "name": "Wnd.com" },
-    "author": "Daily Caller News Foundation",
-    "title": "\u2018Do you hear yourself?\u2019 Watch JD Vance shred network anchor minimizing migrant-gang takeover of apartment complexes",
-    "description": "'Kamala Harris, 94 executive orders that undid Donald Trump's successful border policies, we knew this stuff would happen. They bragged about opening the border, and now we have the consequences and we're living with it. We can do so much better, but frankly \u2026",
-    "url": "https://www.wnd.com/2024/10/do-you-hear-yourself-watch-jd-vance-shred-network-anchor-minimizing-migrant-gang-takeover-of-apartment-complexes/",
-    "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/10/jd-vance-surprised-shocked-jpg.jpg",
-    "publishedAt": "2024-10-13T18:10:16Z",
-    "content": "Republican Ohio Sen. J.D. Vance appeared shocked Sunday on ABC News when co-host Martha Raddatz interrupted him mid-statement and attempted to downplay Venezuelan gangs takeover of Colorado apartment\u2026 [+4187 chars]"
-  },
-  {
-    "source": { "id": null, "name": "[Removed]" },
-    "author": null,
-    "title": "[Removed]",
-    "description": "[Removed]",
-    "url": "https://removed.com",
-    "urlToImage": null,
-    "publishedAt": "2024-10-13T14:12:33Z",
-    "content": "[Removed]"
-  },
-  {
-    "source": { "id": null, "name": "The Punch" },
-    "author": "Agency Report",
-    "title": "US poll: Harris, Trump seek 11th-hour advantages",
-    "description": "United States Vice President Kamala Harris and her rival, former president Donald Trump are campaigning in critical battleground states Sunday seeking 11th-hour advantages in a deadlocked White House race, as new polling shows the vice president underperformi\u2026",
-    "url": "https://punchng.com/us-poll-harris-trump-seek-11th-hour-advantages/",
-    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/09/11063127/Trump.jpg",
-    "publishedAt": "2024-10-13T19:42:45Z",
-    "content": "United States Vice President Kamala Harris and her rival, former president Donald Trump are campaigning in critical battleground states Sunday seeking 11th-hour advantages in a deadlocked White House\u2026 [+3737 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Acecomments.mu.nu" },
-    "author": "CBD",
-    "title": "Tampon Timmy Does Another Failed \"Make Me Look Normal\" Event",
-    "description": "One of the most unpleasant and grating parts of most current political campaigns is the nails-on-a-chalkboard scripted events trying to portray the candidate as just a [fill in the blank]. Whether it's Kamala Harris talking about cooking, or Jon Tester...",
-    "url": "https://acecomments.mu.nu/?post=411896",
-    "urlToImage": null,
-    "publishedAt": "2024-10-13T16:00:20Z",
-    "content": "One of the most unpleasant and grating parts of most current political campaigns is the nails-on-a-chalkboard scripted events trying to portray the candidate as just a [fill in the blank]. Whether it\u2026 [+293 chars]"
-  },
-  {
-    "source": { "id": null, "name": "TheJournal.ie" },
-    "author": "Press Association",
-    "title": "Biden arrives in Florida to survey damage caused by Hurricane Milton",
-    "description": "Kamala Harris is spending the weekend in North Carolina, which was hit hard by Hurricane Helene in September.",
-    "url": "https://www.thejournal.ie/joe-biden-visits-florida-after-hurricane-milton-6514373-Oct2024/",
-    "urlToImage": "https://img2.thejournal.ie/article/6514373/river/?height=400&version=6514378",
-    "publishedAt": "2024-10-13T18:22:24Z",
-    "content": "US PRESIDENT JOE Biden is today seeing up close the devastation inflicted on Floridas Gulf Coast by Hurricane Milton as he presses Congress to approve additional emergency disaster funding.\r\nVice Pre\u2026 [+5221 chars]"
-  },
-  {
     "source": { "id": null, "name": "Thegatewaypundit.com" },
     "author": "Margaret Flavin",
     "title": "UFC CEO Dana White Says Recent Kamala Harris Interview Should \u201cScare the Sh** Out of\u201d Everyone",
@@ -728,26 +298,6 @@
     "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/06/screen-shot-2024-06-02-at-10.19.17-am_16x9.png",
     "publishedAt": "2024-10-13T16:20:04Z",
     "content": "Following Kamala Harris\u2019 recent bizarre appearance on The Late Show with Stephen Colbert, UFC CEO Dana White said Harris inability to put a sentence together should scare the sh** out of everyone.\r\nD\u2026 [+1803 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Thegatewaypundit.com" },
-    "author": "Margaret Flavin",
-    "title": "NFL Star\u2019s Wife Faces Racist Attacks from Leftists After She Blasts Kamala Harris Over Dust-Up With Florida Gov. DeSantis: \u2018Textbook Trash\u2019",
-    "description": "Devon Mostert, the wife of Dolphins running back Raheem Mostert, took to social media to blast Kamala Harris for arguing with Florida Gov.\nThe post NFL Star\u2019s Wife Faces Racist Attacks from Leftists After She Blasts Kamala Harris Over Dust-Up With Florida Gov\u2026",
-    "url": "https://www.thegatewaypundit.com/2024/10/nfl-stars-wife-faces-racist-attacks-leftists-after/",
-    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/screen-shot-2024-10-12-at-6.33.42-pm_16x9.png",
-    "publishedAt": "2024-10-13T01:00:34Z",
-    "content": "Devon Mostert/Image: Video screenshot-Fox News Digital\r\nDevon Mostert, the wife of Dolphins running back Raheem Mostert, took to social media to blast Kamala Harris for arguing with Florida Gov. Ron \u2026 [+2937 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Thegatewaypundit.com" },
-    "author": "Jordan Conradson",
-    "title": "NONE OF YOUR BUSINESS: Tim Walz Says Difference Between Joe Biden and Kamala Harris is \u201cNOT What They Need to Be Concerned With\u201d (VIDEO)",
-    "description": "Tim Walz tried to dismiss the recent controversy over Kamala Harris admitting that she would be no different\u2013perhaps worse\u2013than Joe Biden, saying that this is not something voters \u201cneed to be concerned with.\u201d As The Gateway Pundit reported, Kamala Harris rece\u2026",
-    "url": "https://www.thegatewaypundit.com/2024/10/none-your-business-tim-walz-says-difference-joe/",
-    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/img_8368.jpeg",
-    "publishedAt": "2024-10-13T01:20:11Z",
-    "content": "Tim Walz\r\nTim Walz tried to dismiss the recent controversy over Kamala Harris admitting that she would be no different\u2013perhaps worse\u2013than Joe Biden, saying that this is not something voters \u201cneed to \u2026 [+1363 chars]"
   },
   {
     "source": { "id": null, "name": "Thegatewaypundit.com" },
@@ -761,23 +311,13 @@
   },
   {
     "source": { "id": null, "name": "Thegatewaypundit.com" },
-    "author": "Margaret Flavin",
-    "title": "Watch: Comedy Break Greg Gutfeld Holds Hillarious Trump-Harris Debate Parody (Video)",
-    "description": "Since it is likely there will not be another debate between President Donald Trump and Kamala Harris, Fox New host Greg Gutfeld decided to hold a debate of his own.\nThe post Watch: Comedy Break Greg Gutfeld Holds Hillarious Trump-Harris Debate Parody (Video) \u2026",
-    "url": "https://www.thegatewaypundit.com/2024/10/watch-comedy-break-greg-gutfeld-holds-hillarious-trump/",
-    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/screen-shot-2024-10-12-at-7.14.23-pm_16x9-1200x630.png",
-    "publishedAt": "2024-10-13T01:40:52Z",
-    "content": "Greg Gutfeld holds a moch debate./Image: video screenshot.\r\nSince it is likely there will not be another debate between President Donald Trump and Kamala Harris, Fox New host Greg Gutfeld decided to \u2026 [+5400 chars]"
-  },
-  {
-    "source": { "id": null, "name": "Thegatewaypundit.com" },
     "author": "Jordan Conradson",
-    "title": "WATCH LIVE: President Trump Delivers Remarks at Rally in Prescott Valley, Arizona",
-    "description": "President Trump will take the stage in Prescott Valley, Arizona to deliver remarks on soaring inflation and the consequences of open borders under Kamalanomics and Border Czar Kamala Harris.\nThe post WATCH LIVE: President Trump Delivers Remarks at Rally in Pr\u2026",
-    "url": "https://www.thegatewaypundit.com/2024/10/watch-live-president-trump-delivers-remarks-rally-prescott/",
-    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/img_8402.jpeg",
-    "publishedAt": "2024-10-13T19:40:20Z",
-    "content": "President Trump delivers remarks in Prescott Valley, Arizona on October 13, 2024\r\nPresident Trump will take the stage in Prescott Valley, Arizona to deliver remarks on soaring inflation and the conse\u2026 [+2884 chars]"
+    "title": "NONE OF YOUR BUSINESS: Tim Walz Says Difference Between Joe Biden and Kamala Harris is \u201cNOT What They Need to Be Concerned With\u201d (VIDEO)",
+    "description": "Tim Walz tried to dismiss the recent controversy over Kamala Harris admitting that she would be no different\u2013perhaps worse\u2013than Joe Biden, saying that this is not something voters \u201cneed to be concerned with.\u201d As The Gateway Pundit reported, Kamala Harris rece\u2026",
+    "url": "https://www.thegatewaypundit.com/2024/10/none-your-business-tim-walz-says-difference-joe/",
+    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/img_8368.jpeg",
+    "publishedAt": "2024-10-13T01:20:11Z",
+    "content": "Tim Walz\r\nTim Walz tried to dismiss the recent controversy over Kamala Harris admitting that she would be no different\u2013perhaps worse\u2013than Joe Biden, saying that this is not something voters \u201cneed to \u2026 [+1363 chars]"
   },
   {
     "source": { "id": null, "name": "Thegatewaypundit.com" },
@@ -790,14 +330,14 @@
     "content": "60 Minutes splices Kamala Harris\u2019s answers together to make her sound coherent and normal. She\u2019s that bad.\r\nAs previously reported, fake news \u201960 Minutes\u2019 was caught editing Kamalas answers to make h\u2026 [+3022 chars]"
   },
   {
-    "source": { "id": "the-irish-times", "name": "The Irish Times" },
-    "author": "Colin Coyle",
-    "title": "Next in line for success? Louis Walsh\u2019s new boy band will have to conquer the primary school market first",
-    "description": "Plus: The Ditch doing fine in a post-Paddy world; Fianna F\u00e1il borrows from the DUP; and Brendan O\u2019Carroll\u2019s soft backing of Kamala Harris",
-    "url": "https://www.irishtimes.com/ireland/2024/10/13/next-in-line-for-success-louis-walshs-new-boy-band-will-have-to-conquer-the-primary-school-market-first/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/H77SP52ZYBNKBI22WF6OQXYU7A.jpg?smart=true&auth=f41d7c5e8edf1a10010f6d5196bcba274b796f826f81bf4907adc5cbe5564271&width=1200&height=630",
-    "publishedAt": "2024-10-13T05:00:00Z",
-    "content": "Being in a boy band isnt all just hysterical teenage girls, strong-hold hair gel and wild partying. At least not on Louis Walshs watch. The pop Svengali, to give him his correct title, has a new grou\u2026 [+5937 chars]"
+    "source": { "id": null, "name": "Thegatewaypundit.com" },
+    "author": "Margaret Flavin",
+    "title": "NFL Star\u2019s Wife Faces Racist Attacks from Leftists After She Blasts Kamala Harris Over Dust-Up With Florida Gov. DeSantis: \u2018Textbook Trash\u2019",
+    "description": "Devon Mostert, the wife of Dolphins running back Raheem Mostert, took to social media to blast Kamala Harris for arguing with Florida Gov.\nThe post NFL Star\u2019s Wife Faces Racist Attacks from Leftists After She Blasts Kamala Harris Over Dust-Up With Florida Gov\u2026",
+    "url": "https://www.thegatewaypundit.com/2024/10/nfl-stars-wife-faces-racist-attacks-leftists-after/",
+    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/screen-shot-2024-10-12-at-6.33.42-pm_16x9.png",
+    "publishedAt": "2024-10-13T01:00:34Z",
+    "content": "Devon Mostert/Image: Video screenshot-Fox News Digital\r\nDevon Mostert, the wife of Dolphins running back Raheem Mostert, took to social media to blast Kamala Harris for arguing with Florida Gov. Ron \u2026 [+2937 chars]"
   },
   {
     "source": { "id": null, "name": "New York Post" },
@@ -810,33 +350,533 @@
     "content": "Top operatives from Donald Trumps presidential campaign are very confident in their ability to close strong in swing states, contending Kamala Harris metrics have collapsed in the seven battlegrounds\u2026 [+3749 chars]"
   },
   {
+    "source": { "id": null, "name": "Americanthinker.com" },
+    "author": null,
+    "title": "Can Kamala Harris' pro-gun transformation be trusted?",
+    "description": "Kamala Harris has recently, and repeatedly, told the American public she\u2019s just like us. She worked at McDonalds. She did the fries, and sometimes the cash register, so obviously, we can trust her on the economy. Unsurprisingly, intensive media...",
+    "url": "https://www.americanthinker.com/blog/2024/10/can_kamala_harris_pro_gun_transformation_be_trusted.html",
+    "urlToImage": "https://images.americanthinker.com/vv/vvvfze2vmhuo4isq4aon_800.jpg",
+    "publishedAt": "2024-10-13T04:00:00Z",
+    "content": "Kamala Harris has recently, and repeatedly, told the American public she\u2019s just like us. She worked at McDonalds. She did the fries, and sometimes the cash register, so obviously, we can trust her on\u2026 [+5013 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "zerohedge.com",
+    "title": "Beware Of Kamala Harris Neo-Marxist Idea",
+    "description": "Beware Of Kamala Harris Neo-Marxist Idea\n \nAuthored by Daniel Lacalle,\nOn numerous occasions, Kamala Harris has spoken in public about the difference between equality and equity. Equality of opportunity is not enough. Even socialist equality, where everyone b\u2026",
+    "url": "https://biztoc.com/x/15d3b54eba8618d2",
+    "urlToImage": "https://biztoc.com/cdn/15d3b54eba8618d2_s.webp",
+    "publishedAt": "2024-10-13T20:22:57Z",
+    "content": "Beware Of Kamala Harris Neo-Marxist Idea\r\nAuthored by Daniel Lacalle,On numerous occasions, Kamala Harris has spoken in public about the difference between equality and equity. Equality of opportunit\u2026 [+132 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Donald Trump Erases Kamala Harris Lead in New National Poll",
+    "description": "Last month, Kamala Harris was ahead of her Republican opponent by 5 points.",
+    "url": "https://biztoc.com/x/493878f8a2ac3eda",
+    "urlToImage": "https://biztoc.com/cdn/803/og.png",
+    "publishedAt": "2024-10-13T13:21:21Z",
+    "content": "Last month, Kamala Harris was ahead of her Republican opponent by 5 points.\r\nThis story appeared on newsweek.com, 2024-10-13."
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "youtube.com",
+    "title": "Bill Clinton: Kamala Harris would be a 'transforming' president",
+    "description": "Former President #BillClinton hit the campaign trail for Vice President #KamalaHarris, saying at a #Georgia rally that \"she has the ...",
+    "url": "https://biztoc.com/x/1cb2d708146646c5",
+    "urlToImage": "https://biztoc.com/cdn/1cb2d708146646c5_s.webp",
+    "publishedAt": "2024-10-13T22:51:38Z",
+    "content": "Former President #BillClinton hit the campaign trail for Vice President #KamalaHarris, saying at a #Georgia rally that \"she has the ...\r\nThis story appeared on youtube.com, 2024-10-13."
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Electoral College Map Projector Flips Third State From Kamala Harris",
+    "description": "RealClearPolitics polling aggregator has Donald Trump leading Nevada by 0.2 points on average.",
+    "url": "https://biztoc.com/x/139c6d16ff4604e6",
+    "urlToImage": "https://biztoc.com/cdn/803/og.png",
+    "publishedAt": "2024-10-13T10:07:47Z",
+    "content": "RealClearPolitics polling aggregator has Donald Trump leading Nevada by 0.2 points on average.\r\nThis story appeared on newsweek.com, 2024-10-13."
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "newsweek.com",
+    "title": "Jill Stein's Chances of Blocking Kamala Harris Win Key Swing States: Polls",
+    "description": "While Green Party candidate Jill Stein is unlikely to win the presidency, her support in key \"Blue Wall\" battleground states could be decisive, with razor-thin margins between Vice President Kamala Harris and former President Donald Trump, according to polls.\u2026",
+    "url": "https://biztoc.com/x/f6bac2d7b80f676b",
+    "urlToImage": "https://biztoc.com/cdn/f6bac2d7b80f676b_s.webp",
+    "publishedAt": "2024-10-13T15:34:28Z",
+    "content": "While Green Party candidate Jill Stein is unlikely to win the presidency, her support in key \"Blue Wall\" battleground states could be decisive, with razor-thin margins between Vice President Kamala H\u2026 [+136 chars]"
+  },
+  {
+    "source": { "id": null, "name": "HuffPost" },
+    "author": "Jazmin Tolliver",
+    "title": "'F**k Off': Megyn Kelly Slams Vogue For Kamala Harris Cover",
+    "description": "\u201cWhat message does this send to little girls?\" the conservative host asked.",
+    "url": "https://www.huffpost.com/entry/megyn-kelly-kamala-harris-vogue-cover_n_670be6fbe4b0ce20754aa5ca",
+    "urlToImage": "https://img.huffingtonpost.com/asset/670c02142600005e006cfef0.jpeg?cache=6HLmQ566pO&ops=1200_630",
+    "publishedAt": "2024-10-13T18:46:44Z",
+    "content": "Megyn Kelly says Kamala Harris new Vogue cover sends the wrong message to young girls. \r\nWhat message does this send to little girls? You can become president, just as long as you dont age, OK? You c\u2026 [+3582 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "nbcnews.com",
+    "title": "Donald Trump pulls even with Kamala Harris in NBC News poll, Steve Kornacki explains",
+    "description": "Kamala Harris and Donald Trump are deadlocked in the latest NBC News poll, with Trump bolstered by favorable views of his presidency and Harris by concerns about abortion. NBC News National Political Correspondent Steve Kornacki joins Meet the Press to go thr\u2026",
+    "url": "https://biztoc.com/x/6a60bfa89fe193e0",
+    "urlToImage": "https://biztoc.com/cdn/6a60bfa89fe193e0_s.webp",
+    "publishedAt": "2024-10-13T13:21:18Z",
+    "content": "Kamala Harris and Donald Trump are deadlocked in the latest NBC News poll, with Trump bolstered by favorable views of his presidency and Harris by concerns about abortion. NBC News National Political\u2026 [+125 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "finance.yahoo.com",
+    "title": "This Market Pro Says Kamala Harris' Unrealized Capital Gains Tax 'Makes No Sense' And Will 'Suck Money Out Of The Market'",
+    "description": "Vice President Kamala Harris has endorsed a tax proposal that is lighting up debates everywhere. The 25% minimum tax on total income, including unrealized capital gains, targets the ultrawealthy, particularly those with over $100 million fortunes. While some \u2026",
+    "url": "https://biztoc.com/x/ac4142716fbcf42c",
+    "urlToImage": "https://biztoc.com/cdn/803/og.png",
+    "publishedAt": "2024-10-13T16:07:44Z",
+    "content": "Vice President Kamala Harris has endorsed a tax proposal that is lighting up debates everywhere. The 25% minimum tax on total income, including unrealized capital gains, targets the ultrawealthy, par\u2026 [+144 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "aol.com",
+    "title": "Is Donald Trump or Kamala Harris Better for Stocks? Statistically, One Party Has Overseen a Considerably Higher Average Annual Return Over the Last Century",
+    "description": "In a little over three weeks, voters from across the country will head to the polls to determine the direction of our great country over the coming four years.\nAlthough not every action taken by the incoming president and Congress will have a bearing on Wall \u2026",
+    "url": "https://biztoc.com/x/7972713d9f5b45fe",
+    "urlToImage": "https://biztoc.com/cdn/7972713d9f5b45fe_s.webp",
+    "publishedAt": "2024-10-13T09:37:18Z",
+    "content": "In a little over three weeks, voters from across the country will head to the polls to determine the direction of our great country over the coming four years.Although not every action taken by the i\u2026 [+128 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Biztoc.com" },
+    "author": "news.google.com",
+    "title": "Is Donald Trump or Kamala Harris Better for Stocks? Statistically, One Party Has Overseen a Considerably Higher Average Annual Return Over the Last Century",
+    "description": "Is Donald Trump or Kamala Harris Better for Stocks? Statistically, One Party Has Overseen a Considerably Higher Average Annual Return Over the Last Century. The Motley Fool\nDonald Trump Beats Joe Biden in the Stock Market Hungarian Conservative\nHere\u2019s how sto\u2026",
+    "url": "https://biztoc.com/x/926bb1e1c6c3d763",
+    "urlToImage": "https://biztoc.com/cdn/803/og.png",
+    "publishedAt": "2024-10-13T15:56:38Z",
+    "content": "Is Donald Trump or Kamala Harris Better for Stocks? Statistically, One Party Has Overseen a Considerably Higher Average Annual Return Over the Last Century. The Motley FoolDonald Trump Beats Joe Bide\u2026 [+133 chars]"
+  },
+  {
+    "source": { "id": null, "name": "NDTV News" },
+    "author": "NDTV News Desk",
+    "title": "More Billionaires Back Kamala Harris Over Donald Trump. Who They Are",
+    "description": "As the 2024 US presidential race heats up, billionaires across the country are quietly taking sides, providing significant financial backing to either Vice President Kamala Harris or former President Donald Trump.",
+    "url": "https://www.ndtv.com/world-news/billionaires-funding-kamala-harris-and-donald-trump-in-2024-6778853",
+    "urlToImage": "https://c.ndtvimg.com/2024-10/ldflnci8_kamala-harris-donald-trump-harris-trump-reuters_625x300_12_October_24.jpg",
+    "publishedAt": "2024-10-13T10:31:03Z",
+    "content": "As the 2024 US presidential race heats up, billionaires across the country are quietly taking sides, providing significant financial backing to either Vice President Kamala Harris or former President\u2026 [+4625 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Politicalwire.com" },
+    "author": "Taegan Goddard",
+    "title": "Kamala Harris\u2019 Hundred-Day Campaign",
+    "description": "Evan Osnos: \u201cThree months ago, the Vice-President was fighting for respect in Washington. Can she defy her doubters \u2014 and end the Trump era?\u201d",
+    "url": "https://politicalwire.com/2024/10/13/kamala-harriss-hundred-day-campaign/",
+    "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+    "publishedAt": "2024-10-13T16:30:11Z",
+    "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d\r\n Chuck Todd, host of \u201cMeet the Press\u201d\r\n\u201cConcise. Relevant. To th\u2026 [+594 chars]"
+  },
+  {
+    "source": { "id": null, "name": "CNBC" },
+    "author": null,
+    "title": "Kamala Harris says this lesson from her mom shaped her career\u2014why parenting experts say it\u2019s essential for success",
+    "description": "Growing up, Vice President Kamala Harris's mother taught her to approach conflict with agency and accountability. The lessons have shaped her career, she says.",
+    "url": "https://www.cnbc.com/2024/10/13/kamala-harris-says-this-lesson-from-her-mom-shaped-her-career.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108046619-1728657363496-gettyimages-2177123486-AFP_36JW3PQ.jpeg?v=1728657436&w=1920&h=1080",
+    "publishedAt": "2024-10-13T13:45:01Z",
+    "content": "Teaching your kids how to be self-sufficient, especially in a conflict, can help them gain confidence and increase their likelihood of success, experts say. \u00a0\r\nJust ask Vice President and democratic \u2026 [+2574 chars]"
+  },
+  {
+    "source": { "id": "usa-today", "name": "USA Today" },
+    "author": "Caroline Darney",
+    "title": "SNL cold open featured Maya Rudolph's Kamala Harris playing Family Feud",
+    "description": "Andy Samberg, Jim Gaffigan and Dana Carvey return for to play alongside Rudolph.",
+    "url": "https://ftw.usatoday.com/2024/10/snl-cold-open-ariana-grande-maya-rudolph-kamala-harris-donald-trump-family-feud",
+    "urlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2024/10/Screenshot-2024-10-13-at-7.17.28\u202fAM.png?w=1024&h=576&crop=1",
+    "publishedAt": "2024-10-13T11:24:43Z",
+    "content": "With the 2024 presidential election right around the corner, Saturday Night Live continued to lean into the topical skits. This week, presidential nominees Kamala Harris (Maya Rudolph) and Donald Tru\u2026 [+578 chars]"
+  },
+  {
+    "source": { "id": "the-times-of-india", "name": "The Times of India" },
+    "author": "The Feed",
+    "title": "US Elections 2024: Latest poll reveals who's leading in each state; is Kamala Harris winning the swing states?",
+    "description": "As the competition between Trump and Harris heats up, both candidates are working to win over the small group of undecided voters in these pivotal states.",
+    "url": "https://economictimes.indiatimes.com/news/international/us/us-elections-2024-latest-poll-reveals-whos-leading-in-each-state-is-kamala-harris-winning-the-swing-states/articleshow/114192437.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-114192444,width-1200,height-630,imgsize-58684,overlay-economictimes/photo.jpg",
+    "publishedAt": "2024-10-13T14:01:31Z",
+    "content": "In the latest surveys from the New York Times, Philadelphia Inquirer, and Siena College, former President Donald Trump maintains a six-point lead in Arizona, while Vice President Kamala Harris holds \u2026 [+3817 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "People via Yahoo",
+    "title": "Donald Trump Calls Kamala Harris the R-Word at Dinner",
+    "description": "Donald Trump reportedly called Kamala Harris the R-word during a dinner with billionaire donors, according to The New York Times. Trump's reported use of the r-word comes less than a month before Election Day, when he will go up against Harris, 59, on the pre\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270764/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T19:48:14Z",
+    "content": "Skip to comments.\r\nDonald Trump Calls Kamala Harris the R-Word at DinnerPeople via Yahoo ^\r\n | October 13, 2024\r\n | Marina Watts\r\nPosted on 10/13/2024 12:48:14 PM PDT by Mr. Mojo\r\nDonald Trump report\u2026 [+4152 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Breitbart",
+    "title": "\u2018We\u2019re Not Voting for Kamala\u2019: Black Male Voters Slam Obama\u2019s Shame Tactics for Not Supporting Harris",
+    "description": "Black conservative men have responded to former President Barack Obama\u2019s claims that they do not support Vice President Kamala Harris\u2019s campaign due to sexism, slamming him for not accurately representing the black community and for trying to shame them into \u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270789/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T22:15:39Z",
+    "content": "Skip to comments.\r\nWere Not Voting for Kamala: Black Male Voters Slam Obamas Shame Tactics for Not Supporting HarrisBreitbart ^\r\n | 10/13/2024\r\n | OLIVIA RONDEAU\r\nPosted on 10/13/2024 3:15:39 PM PDT \u2026 [+1929 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Youtube",
+    "title": "Harmeet Dhillon: The Shocking Origin Story of Kamala Harris and All the Crimes She\u2019s Committed [Tucker]",
+    "description": "If you want to know the real history of Kamala Harris, Tucker hosts Harmeet Dhillon, a conservative California Indian-American attorney whose career spans the same time and place as Kamala's. Plenty of juicy biographical details which no one else has reported\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270605/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T01:00:21Z",
+    "content": "Skip to comments.\r\nHarmeet Dhillon: The Shocking Origin Story of Kamala Harris and All the Crimes Shes Committed [Tucker]Youtube ^\r\n | October 12, 2024\r\n | Harmeet Dhillon\r\nPosted on 10/12/2024 6:00:\u2026 [+981 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Flopping Aces",
+    "title": "Men Have Had Enough: Rejecting the Left\u2019s Gender Politics and Kamala Harris",
+    "description": "by Torrance Stephens, PhDOver the past several years, sex has become more politicized than ever before. This effort has been mainly due to rhetoric from the progressive left. From pronouns to biological men competing against women in sports to a person who ca\u2026",
+    "url": "https://freerepublic.com/focus/f-bloggers/4270719/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T16:15:25Z",
+    "content": "Skip to comments.\r\nMen Have Had Enough: Rejecting the Lefts Gender Politics and Kamala HarrisFlopping Aces ^\r\n | 10-13-24\r\n | Torrance Stephens\r\nPosted on 10/13/2024 9:15:25 AM PDT by Starman417\r\nby \u2026 [+5824 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "NY Post",
+    "title": "Kamala Harris\u2019 campaign is falling rapidly behind Donald Trump, 3 new polls show",
+    "description": "Vice President Kamala Harris has lost steam and her edge against former President Donald Trump has slipped in three major polls with less than a month to go until Election Day \u2014 yet another blow to Democrats who were already starting to panic about November. \u2026",
+    "url": "https://freerepublic.com/focus/f-chat/4270739/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T17:52:09Z",
+    "content": "Skip to comments.\r\nKamala Harris campaign is falling rapidly behind Donald Trump, 3 new polls showNY Post ^\r\n | 10/13/24\r\n | Ryan King\r\nPosted on 10/13/2024 10:52:09 AM PDT by Libloather\r\nVice Presid\u2026 [+3596 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Breitbart",
+    "title": "Exclusive: Juanita Broaddrick Slams Kamala Harris for Enlisting \u2018Prolific Sexual Abuser\u2019 Bill Clinton to Boost Campaign",
+    "description": "The Harris campaign\u2019s decision to bring \u201cdegenerate\u201d former President Bill Clinton back to the political stage is \u201cabsolutely unbelievable,\u201d according to Clinton accuser Juanita Broaddrick, who called the 42nd president \u201cthe most prolific sexual abuser in his\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270750/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T18:52:44Z",
+    "content": "Skip to comments.\r\nExclusive: Juanita Broaddrick Slams Kamala Harris for Enlisting Prolific Sexual Abuser Bill Clinton to Boost CampaignBreitbart ^\r\n | October 13th, 2024\r\n | Joshua Klein\r\nPosted on \u2026 [+2665 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "The Telegraph",
+    "title": "Kamala Harris risks losing Pennsylvania over Biden\u2019s economic mistakes, poll reveals",
+    "description": "Kamala Harris risks losing Pennsylvania because of Joe Biden\u2019s economic policies, a new poll for The Telegraph reveals. A survey of voters in the key swing state, taken earlier this week, shows Donald Trump ahead of Ms Harris by two points, amid widespread co\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270774/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T20:29:41Z",
+    "content": "Skip to comments.\r\nKamala Harris risks losing Pennsylvania over Bidens economic mistakes, poll revealsThe Telegraph ^\r\n | 10/12/24\r\n | Tony Diver\r\nPosted on 10/13/2024 1:29:41 PM PDT by DallasBiff\r\nK\u2026 [+3518 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Newsweek",
+    "title": "Kamala Harris Gets Good News in Must-Win State From Most Accurate Pollster",
+    "description": "Vice President Kamala Harris, the Democratic nominee, is pulling ahead in Pennsylvania, a pivotal battleground state, according to a recent poll from The New York Times/Siena College, which is ranked by FiveThirtyEight as the most reliable pollster in the Uni\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270593/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T00:22:20Z",
+    "content": "Skip to comments.\r\nKamala Harris Gets Good News in Must-Win State From Most Accurate PollsterNewsweek ^\r\n | OCT 12, 2024\r\n | Mandy Taheri\r\nPosted on 10/12/2024 5:22:20 PM PDT by lasereye\r\nVice Presid\u2026 [+3147 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Nypost",
+    "title": "Kamala Harris\u2019 campaign is falling rapidly behind Donald Trump, 3 new polls show",
+    "description": "Vice President Kamala Harris has lost steam and her edge against former President Donald Trump has slipped in three major polls with less than a month to go until Election Day \u2014 yet another blow to Democrats who were already starting to panic about November. \u2026",
+    "url": "https://freerepublic.com/focus/f-chat/4270759/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T19:42:31Z",
+    "content": "Skip to comments.\r\nKamala Harris campaign is falling rapidly behind Donald Trump, 3 new polls showNypost ^\r\n | 10/13/2024\r\n | Ryan King\r\nPosted on 10/13/2024 12:42:31 PM PDT by ChicagoConservative27\r\u2026 [+2399 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Fox News",
+    "title": "'SNL' takes aim at Kamala Harris' 'middle class family' response during 'Family Feud' skit",
+    "description": "\"Saturday Night Live\" (SNL) mocked Vice President Kamala Harris again on Saturday during a \"Family Feud\" skit that took aim at the Democratic presidential candidate's interview responses and her stories about her background and growing up in a middle class fa\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270735/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T17:30:51Z",
+    "content": "Skip to comments.\r\n'SNL' takes aim at Kamala Harris' 'middle class family' response during 'Family Feud' skitFox News ^\r\n | October 13, 2024 \r\n | Hanna Panreck\r\nPosted on 10/13/2024 10:30:51 AM PDT b\u2026 [+2150 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Quartz via Yahoo Tech",
+    "title": "AOC to Mark Cuban and other Kamala Harris backers: Stay away from FTC chair Lina Khan",
+    "description": "Congresswoman Alexandria Ocasio-Cortez is hitting back at the slew of Democratic billionaires calling for a potential Kamala Harris Administration to fire the sitting chair of the Federal Trade Commission (FTC)./i> \u201cLet me make this clear, since billionaires \u2026",
+    "url": "https://freerepublic.com/focus/f-chat/4270595/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T00:26:11Z",
+    "content": "Skip to comments.\r\nAOC to Mark Cuban and other Kamala Harris backers: Stay away from FTC chair Lina KhanQuartz via Yahoo Tech ^\r\n | October 9, 2024\r\n | William Gavin\r\nPosted on 10/12/2024 5:26:11 PM \u2026 [+2642 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "The Telegraph",
+    "title": "Kamala Harris risks losing Pennsylvania over Biden\u2019s economic mistakes, poll reveals",
+    "description": "Kamala Harris risks losing Pennsylvania because of Joe Biden\u2019s economic policies, a new poll for The Telegraph reveals. A survey of voters in the key swing state, taken earlier this week, shows Donald Trump ahead of Ms Harris by two points, amid widespread co\u2026",
+    "url": "https://freerepublic.com/focus/f-chat/4270774/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T20:29:41Z",
+    "content": "Skip to comments.\r\nKamala Harris risks losing Pennsylvania over Bidens economic mistakes, poll revealsThe Telegraph ^\r\n | 10/12/24\r\n | Tony Diver\r\nPosted on 10/13/2024 1:29:41 PM PDT by DallasBiff\r\nK\u2026 [+2318 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "UK Daily Mail",
+    "title": "Social media goes into meltdown as Saturday Night Live destroys Kamala Harris: 'It's over. The Democrats have lost SNL'",
+    "description": "Recent Saturday Night Live skits mocking Kamala Harris have sparked social media uproar - as many viewers believe these sketches are bad news for the candidate. The iconic late-night show has been airing sketches featuring the Democratic presidential nominee \u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270709/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T15:38:07Z",
+    "content": "Skip to comments.\r\nSocial media goes into meltdown as Saturday Night Live destroys Kamala Harris: 'It's over. The Democrats have lost SNL'UK Daily Mail ^\r\n | October 13 2024\r\n | Sonya Gugliara\r\nPoste\u2026 [+2449 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "New York Post",
+    "title": "Ex-CBS staffers call for outside probe of \u201860 Minutes\u2019 interview with Kamala Harris amid editing scandal",
+    "description": "Former CBS News staffers are demanding an independent investigation into \u201c60 Minutes\u201d over the brewing Kamala Harris interview scandal \u2014 even as the network digs in its heels and refuses to release the full, unedited transcript, ... The long-running news show\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270594/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T00:23:50Z",
+    "content": "Skip to comments.\r\nEx-CBS staffers call for outside probe of 60 Minutes interview with Kamala Harris amid editing scandalNew York Post ^\r\n | Oct. 10, 2024,\r\n | Alexandra Steigrad\r\nPosted on 10/12/202\u2026 [+2585 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Freerepublic.com" },
+    "author": "Breitbart",
+    "title": "Kamala Harris Word Salad: \u2018What We See Is So Hard to See That We Lose Faith or a Vision of Those Things\u2019",
+    "description": "Vice President Kamala Harris was roasted for a word salad during a church service in North Carolina where she attempted to speak about having faith \u201cin times of crisis.\u201d While speaking at the Koinonia Christian Center in Greenville on Sunday, Harris spoke abo\u2026",
+    "url": "https://freerepublic.com/focus/f-news/4270797/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T23:20:56Z",
+    "content": "Skip to comments.\r\nKamala Harris Word Salad: What We See Is So Hard to See That We Lose Faith or a Vision of Those ThingsBreitbart ^\r\n | 10/13/2024\r\n | ELIZABETH WEIBEL\r\nPosted on 10/13/2024 4:20:56 \u2026 [+5152 chars]"
+  },
+  {
+    "source": { "id": null, "name": "RealClearPolitics" },
+    "author": null,
+    "title": "NBC's Kornacki: Kamala Harris Post-Debate Polling Advantage \"Washed Away\"",
+    "description": "NBC elections analyst Steve Kornacki looks at the results of a new round of polls from NBC News, Sunday morning on \"Meet The Press.\"\r\n\r\nSTEVE KORNACKI: It is a tie game here, weeks before the election. And it's that shift. The last poll taken in the wake of t\u2026",
+    "url": "https://www.realclearpolitics.com/video/2024/10/13/nbcs_kornacki_kamala_harris_post-debate_polling_advantage_washed_away.html",
+    "urlToImage": "https://assets.realclear.com/images/66/666142_5_.jpg",
+    "publishedAt": "2024-10-13T13:55:25Z",
+    "content": "STEVE KORNACKI: It is a tie game here, weeks before the election. And it's that shift. The last poll taken in the wake of that September debate, Harris had opened up that advantage over Trump, gone i\u2026 [+1563 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New York Post" },
+    "author": "Isabel Keane",
+    "title": "SNL\u2019s election \u2018Family Feud\u2019 skit roasts Dems and GOP candidates as Kamala Harris\u2019 glock ends up on board",
+    "description": "\"Saturday Night Live\" opened the show this weekend poking fun at both presidential candidates, showing what it might be like if former President Donald Trump and Vice President Kamala Harris were to compete on a game of \"Family Feud\" ahead of the election.",
+    "url": "https://nypost.com/2024/10/13/entertainment/snls-election-family-feud-skit-roasts-dems-and-gop-candidates-as-kamala-harris-glock-ends-up-on-board/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91556556.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-13T18:41:50Z",
+    "content": "\u201cSaturday Night Live\u201d poked fun at both presidential candidates, showing what it might be like if former President Donald Trump and Vice President Kamala Harris were to compete on a game of \u201cFamily F\u2026 [+2838 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Wnd.com" },
+    "author": "Nancy Flanders, Live Action News",
+    "title": "\u2018Call Her Daddy\u2019 podcast pushes pro-abortion propaganda with Kamala Harris leading the agenda",
+    "description": "Vice President Kamala Harris appeared on the Sunday episode of the \u201cCall Her Daddy\u201d podcast, the most-listened-to podcast hosted by a woman, where listeners and viewers were misled on topics such as abortion, IVF, and contraception.",
+    "url": "https://www.wnd.com/2024/10/call-her-daddy-podcast-pushes-pro-abortion-propaganda-with-kamala-harris-leading-the-agenda/",
+    "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/07/kamala-harris-children.jpg",
+    "publishedAt": "2024-10-13T19:55:18Z",
+    "content": "Kamala Harris greets Chrissy Teigen, John Legend and family in her West Wing Office, Thursday, June 20, 2024, at the White House.\r\nVice President Kamala Harris appeared on the Sunday episode of the C\u2026 [+12942 chars]"
+  },
+  {
+    "source": { "id": "marca", "name": "Marca" },
+    "author": "marca.com",
+    "title": "Ariana Grande reveals on SNL her big wish for the duel between Kamala Harris and Donald Trump",
+    "description": "Ariana Grande took the New York 30 Rock stage at &quot;Saturday Night Live&quot; for the third time as host and found herself in familiar circumstances.\n\n&quot;The last time I host",
+    "url": "https://www.marca.com/en/lifestyle/celebrities/2024/10/13/670bd167268e3e69198b45c8.html",
+    "urlToImage": "https://phantom-marca.unidadeditorial.es/ebb81eb917e43a386e49f2f8a1ab608d/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/13/17288277057344.jpg",
+    "publishedAt": "2024-10-13T14:09:40Z",
+    "content": "Ariana Grande took the New York 30 Rock stage at \"Saturday Night Live\" for the third time as host and found herself in familiar circumstances.\r\n\"The last time I hosted was in 2016, and we were right \u2026 [+3069 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Mediaite" },
+    "author": "Phillip Nieto",
+    "title": "SNL Takes Aim at Trump and Biden\u2019s Mental Capacity \u2014 As Well as Kamala Harris Word Salads \u2014 In Wild Family Feud Send-Up",
+    "description": "Saturday Night Live went mocked former President Donald Trump, Vice President Kamala Harris, and President Joe Biden in a wild Family Feud skit.\u00a0\nThe post SNL Takes Aim at Trump and Biden\u2019s Mental Capacity \u2014 As Well as Kamala Harris Word Salads \u2014 In Wild Fami\u2026",
+    "url": "https://www.mediaite.com/tv/snl-takes-aim-at-trump-and-bidens-mental-capacity-as-well-as-kamala-harris-word-salads-in-wild-family-feud-send-up/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/10/snldd.jpg",
+    "publishedAt": "2024-10-13T19:13:39Z",
+    "content": "Saturday Night Live went mocked former President Donald Trump, Vice President Kamala Harris, and President Joe Biden in a wild Family Feud sketch.\r\nIn the stunt, Trump played by James Austin Johnson\u00a0\u2026 [+1478 chars]"
+  },
+  {
+    "source": { "id": null, "name": "New Zealand Herald" },
+    "author": null,
+    "title": "Kamala Harris, who says her husband\u2019s ex is a \u2018dear friend\u2019, has become the poster child for blended families",
+    "description": "NYT: Kirsten Emhoff isn't just OK with her kids' famous stepmum - they're 'dear friends'.",
+    "url": "https://www.nzherald.co.nz/lifestyle/kamala-harris-who-says-her-husbands-ex-is-a-dear-friend-has-become-the-poster-child-for-blended-families/J4QUP35ZVNHXNLWO3Y4GAB6OMY/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IIFA47EPJNE3ZH7GFJ5NO5CVUQ.jpg?auth=8bfbe27c2c2248fe1a2b4e764477af0308c9eb141f13370837d3303f8aa4bb80&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2024-10-13T20:32:47Z",
+    "content": "Although Harris and the Emhoffs have spoken about their blended family in the past, Harriss candidacy for the nations highest office has brought fresh attention to these types of familial structures,\u2026 [+4422 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Hanna Panreck",
+    "title": "Pressure mounts on CBS News to release full Kamala Harris interview transcript",
+    "description": "CBS News' \"60 Minutes\" is facing mounting pressure to release the full transcript of Bill Whitaker's interview with Vice President Kamala Harris",
+    "url": "https://www.foxnews.com/media/pressure-mounts-cbs-news-release-full-kamala-harris-interview-transcript",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/whitakerharris.jpg",
+    "publishedAt": "2024-10-13T20:30:57Z",
+    "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu\u2026 [+3714 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Hanna Panreck",
+    "title": "'SNL' takes aim at Kamala Harris' 'middle class family' response during 'Family Feud' skit",
+    "description": "SNL mocked VP Kamala Harris again on Saturday, taking aim at a story about growing up in a middle class family, which the vice president has told several times.",
+    "url": "https://www.foxnews.com/media/snl-takes-aim-kamala-harris-middle-class-family-response-during-family-feud-skit",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/snl-thompson-rudolph.jpg",
+    "publishedAt": "2024-10-13T13:57:28Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag\u2026 [+3260 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Brian Flood, David Rutz",
+    "title": "84 days: Kamala Harris has yet to do formal press conference since emerging as Democratic nominee",
+    "description": "Vice President Kamala Harris hasn\u2019t held a formal press conference with reporters since she became the presumptive and now official Democratic nominee.",
+    "url": "https://www.foxnews.com/media/84-days-kamala-harris-has-yet-do-formal-press-conference-since-emerging-democratic-nominee",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/image0-7.jpeg",
+    "publishedAt": "2024-10-13T12:14:39Z",
+    "content": "Vice President Kamala Harris has gone 84 days as the presumptive, and now, official Democratic nominee for president without holding an official press conference.\u00a0\r\nTrump has held six news conference\u2026 [+2479 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Joshua Nelson",
+    "title": "Kamala Harris presidential campaign raised more than $1 billion in less than 3 months: report",
+    "description": "Kamala Harris raked in more than $1 billion in less than three in months as a presidential candidate, which is is more than former President Donald Trump pulled in for his campaign.",
+    "url": "https://www.foxnews.com/media/kamala-harris-presidential-campaign-raised-more-than-1-billion-less-than-3-months-report",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/gettyimages-2176994241-scaled.jpg",
+    "publishedAt": "2024-10-13T13:00:52Z",
+    "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu\u2026 [+3056 chars]"
+  },
+  {
+    "source": { "id": "fox-news", "name": "Fox News" },
+    "author": "Andrea Margolis",
+    "title": "Meghan McCain calls out Kamala Harris over remarks about late Arizona senator: 'Don't make me start'",
+    "description": "Meghan McCain criticized Vice President Kamala Harris after the Democratic candidate claimed late Sen. John McCain once told her she would be a \"great\" senator.",
+    "url": "https://www.foxnews.com/politics/meghan-mccain-calls-out-kamala-harris-remarks-late-arizona-senator",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/copy-of-right-inset-33.png",
+    "publishedAt": "2024-10-13T00:34:25Z",
+    "content": "Meghan McCain, the daughter of late Arizona Republican Sen. John McCain, called out Vice President Kamala Harris Friday after the Democratic presidential nominee shared an anecdote about an interacti\u2026 [+2652 chars]"
+  },
+  {
+    "source": { "id": null, "name": "Slashdot.org" },
+    "author": "feedfeeder",
+    "title": "Kamala Harris puts pressure on Donald Trump over medical records - BBC.com",
+    "description": "Kamala Harris puts pressure on Donald Trump over medical recordsBBC.com Harris releases her medical report \u2014 and uses it to raise questions about TrumpNPR Dr. Gupta points out what\u2019s notable about Kamala Harris\u2019 health reportCNN Harris releases letter from do\u2026",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175241795",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T04:52:52Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+    "source": { "id": null, "name": "Slashdot.org" },
+    "author": "feedfeeder",
+    "title": "Is Donald Trump or Kamala Harris Better for Stocks? Statistically, One Party Has Overseen a Considerably Higher Average Annual Return Over the Last Century. - T",
+    "description": "Is Donald Trump or Kamala Harris Better for Stocks? Statistically, One Party Has Overseen a Considerably Higher Average Annual Return Over the Last Century.The Motley Fool Donald Trump Beats Joe Biden in the Stock MarketHungarian Conservative Here\u2019s how stock\u2026",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175244239",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T15:52:20Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
     "source": { "id": null, "name": "New York Post" },
     "author": "Ryan King",
-    "title": "Harris staffers blaming Biden admin for not helping her campaign: \u2018They\u2019re too much in their feelings\u2019",
-    "description": "Amid the veneer of unity that Vice President Kamala Harris and President Biden have displayed ahead of the Nov. 5 election, some of their staffers have reportedly been butting heads behind the scenes.",
-    "url": "https://nypost.com/2024/10/13/us-news/harris-staffers-blaming-biden-admin-for-not-helping-campaignds/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/president-joe-biden-democratic-presidential-89462624.jpg?quality=75&strip=all&w=1024",
-    "publishedAt": "2024-10-13T18:44:11Z",
-    "content": "Vice President Kamala Harris staffers are starting to blame the Biden administration for not doing enough to help her presidential campaign, according to a new report as the Democrat sinks in the pol\u2026 [+5533 chars]"
+    "title": "Kamala Harris falls rapidly behind Trump in 3 new polls",
+    "description": "Even before these surveys, frustrated Democrats were sharing internal polling that showed Harris losing in swing states like Wisconsin and Michigan \u2014 states that will help determine the outcome of \u2026",
+    "url": "https://nypost.com/2024/10/13/us-news/kamala-harris-falls-rapidly-behind-trump-in-3-new-polls/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/91551976.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-10-13T17:01:48Z",
+    "content": "Vice President Kamala Harris has lost steam and her edge against former President Donald Trump has slipped in three major polls with less than a month to go until Election Day yet another blow to Dem\u2026 [+3233 chars]"
   },
   {
-    "source": { "id": null, "name": "New York Post" },
-    "author": "Shane Galvin",
-    "title": "Trump takes Coachella stage to pitch deep-blue California voters",
-    "description": "Former President Donald Trump took the stage at a massive rally Saturday in Coachella in deep-blue California a called the state a \u201cparadise lost\u201d due to Democratic politicians such as Vice President Kamala Harris. \u201cThe radical left democrats have destroyed t\u2026",
-    "url": "https://nypost.com/2024/10/12/us-news/trump-takes-coachella-stage-to-pitch-deep-blue-california-voters/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-benwubqea-1728786707685.jpg?quality=75&strip=all&1728772458&w=1024",
-    "publishedAt": "2024-10-13T02:26:43Z",
-    "content": "Former President Donald Trump took the stage at a massive rally Saturday in Coachella in deep-blue California a called the state a paradise lost due to Democratic politicians such as Vice President K\u2026 [+3265 chars]"
+    "source": { "id": "bbc-news", "name": "BBC News" },
+    "author": "Adam Durbin",
+    "title": "Kamala Harris puts pressure on Donald Trump over medical records",
+    "description": "The Democratic Party's presidential nominee accuses her Republican rival of a lack of transparency about his health.",
+    "url": "https://www.bbc.co.uk/news/articles/cm28r8md15do",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea2e/live/cf33c310-8936-11ef-b6b0-c9af5f7f16e4.jpg",
+    "publishedAt": "2024-10-13T01:03:14Z",
+    "content": "The Trump campaign said the Republican nominee had a \"extremely busy and active campaign schedule\" and claimed Harris \"does not have the stamina of President Trump\".\r\nThe trading of barbs came after \u2026 [+841 chars]"
   },
   {
-    "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
-    "author": "BY JERUSALEM POST STAFF",
-    "title": "JD Vance calls on Americans in Israel to vote Trump, warns of regional war",
-    "description": "\"Donald Trump was a great ally and friend of Israel. Kamala Harris has been a total disaster,\" Vance said.",
-    "url": "https://www.jpost.com/american-politics/article-824435",
-    "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/627931",
-    "publishedAt": "2024-10-13T18:07:46Z",
-    "content": "In an exclusive video shared with The Jerusalem Post, JD Vance, the Republican vice-presidential candidate running alongside Donald Trump, called on American citizens living in Israel to participate \u2026 [+1863 chars]"
+    "source": { "id": null, "name": "fox6now.com" },
+    "author": "Fox6 News Milwaukee",
+    "title": "Vice President Kamala Harris Milwaukee visit planned for Thursday",
+    "description": "Vice President Kamala Harris will campaign in Wisconsin on Thursday, Oct. 17, with stops planned for Milwaukee, La Crosse, and Green Bay.",
+    "url": "https://www.fox6now.com/news/vice-president-kamala-harris-milwaukee-visit-planned-thursday",
+    "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/05/1280/720/7f1fb5ca-a1.jpg?ve=1&tl=1",
+    "publishedAt": "2024-10-13T16:44:59Z",
+    "content": "The Brief\r\n<ul><li><ul><li>Vice President Kamala Harris plans to campaign in battleground Wisconsin on Thursday, Oct. 17.</li><li>The three stops include Milwaukee, La Crosse and Green Bay.</li></ul>\u2026 [+995 chars]"
+  },
+  {
+    "source": { "id": "the-irish-times", "name": "The Irish Times" },
+    "author": "Maureen Dowd",
+    "title": "Maureen Dowd: It\u2019s a do-or-die moment for Kamala Harris. She needs to assert herself",
+    "description": "It\u2019s hard to understand why the Democratic candidate didn\u2019t sit down with a yellow pad long ago and decide why she wanted to be president",
+    "url": "https://www.irishtimes.com/world/us/2024/10/13/maureen-dowd-its-a-do-or-die-moment-for-kamala-harris-she-needs-to-assert-herself/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/UZJJW45AN5KGSBXQBZS2POIE3I.jpg?smart=true&auth=2dc752aefebac959c9bc456e94ef3595ac05c8b5dafe28bcc2e9f03bcc1b2581&width=1200&height=630",
+    "publishedAt": "2024-10-13T05:00:00Z",
+    "content": "Barack Obama got blunt in Pittsburgh on Thursday. He chided black men who are not supporting Kamala Harris, saying that some of the brothers were just not feeling the idea of having a woman as presid\u2026 [+5052 chars]"
+  },
+  {
+    "source": { "id": null, "name": "WSB Atlanta" },
+    "author": "Wsbtv.com News Staff",
+    "title": "Vice President Kamala Harris to visit Atlanta this week",
+    "description": "This week Vice President Kamala Harris will campaign in multiple states, including Georgia.",
+    "url": "https://www.wsbtv.com/news/local/atlanta/vice-president-kamala-harris-visit-atlanta-this-week/QPQXCWSQT5AZJIOH2XE55F27QI/",
+    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/LAGnVbJW5n1Hu1Tcx8cIwqQxVLc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/JRK2VAQNLQEONGEBMZFXRXRMNA.jpg",
+    "publishedAt": "2024-10-13T18:00:38Z",
+    "content": "ATLANTA \u2014 This week Vice President Kamala Harris will campaign in multiple states, including Georgia. \r\n[DOWNLOAD: Free WSB-TV News app for alerts as news breaks]\r\nAs Election Day draws near, the vic\u2026 [+1355 chars]"
+  },
+  {
+    "source": { "id": null, "name": "The South African" },
+    "author": "Afp",
+    "title": "Kamala Harris plays health card Donald Trump medical report",
+    "description": "Democratic White House candidate Kamala Harris is in \"excellent health\" and fit for the presidency, according to a medical report.",
+    "url": "https://www.thesouthafrican.com/news/politics/kamala-harris-plays-health-card-against-donald-trump-with-medical-report-us-election-white-house/",
+    "urlToImage": "http://www.thesouthafrican.com/wp-content/uploads/2024/10/Kamala-Harris.jpg",
+    "publishedAt": "2024-10-13T16:50:24Z",
+    "content": "Democratic White House candidate Kamala Harris is in \u201cexcellent health\u201d and fit for the presidency, according to a medical report published by the White House on Saturday, as she challenged rival Don\u2026 [+3999 chars]"
+  },
+  {
+    "source": { "id": null, "name": "krcgtv.com" },
+    "author": "Darlene Superville Associated Press",
+    "title": "Kamala Harris' health report released to contrast with Trump's vague medical disclosures",
+    "description": "Vice President Kamala Harris is in \"excellent health\" and \"possesses the physical and mental resiliency\" required to serve as president, her doctor said in a le",
+    "url": "https://krcgtv.com/news/nation-world/kamala-harris-health-report-released-to-contrast-with-trumps-vague-medical-disclosures",
+    "urlToImage": "https://krcgtv.com/resources/media2/16x9/4421/986/0x231/90/6be8672a-37ae-49dc-a49e-349dada9fdea-AP24285090086831.jpg",
+    "publishedAt": "2024-10-13T03:00:40Z",
+    "content": "WASHINGTON (AP) Vice President Kamala Harris is in \"excellent health\" and \"possesses the physical and mental resiliency\" required to serve as president, her doctor said in a letter released Saturday \u2026 [+4146 chars]"
+  },
+  {
+    "source": { "id": null, "name": "YouTube" },
+    "author": null,
+    "title": "More deadly strikes in Lebanon | Another UN peacekeeper wounded | Kamala Harris clean bill of health",
+    "description": "More deadly strikes in Lebanon | Another UN peacekeeper wounded | Kamala Harris clean bill of healthyoutube.com",
+    "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcNsitM2wbWQ",
+    "urlToImage": null,
+    "publishedAt": "2024-10-13T09:06:52Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+  },
+  {
+    "source": { "id": null, "name": "WION" },
+    "author": "Moohita Kaur Garg",
+    "title": "Kamala Harris goes full Trump, challenges 78-year-old Republican to reveal his health report",
+    "description": "Kamala Harris has taken a page out of her political rival Donald Trump's book and has invited him to disclose his health report. Harris, the Democratic Party presidential candidate who at 59 years old is much younger than the 78-year-old Republican Party pres\u2026",
+    "url": "https://www.wionews.com/world/kamala-harris-goes-full-trump-challenges-78-year-old-republican-to-reveal-his-health-report-766957",
+    "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/10/13/459867-new-wion-2024-10-13t080546418.png",
+    "publishedAt": "2024-10-13T02:50:53Z",
+    "content": "Kamala Harris has taken a page out of her political rival Donald Trump's book and has invited him to disclose his health report. Harris, the Democratic Party presidential candidate who at 59 years ol\u2026 [+2302 chars]"
   }
 ]
